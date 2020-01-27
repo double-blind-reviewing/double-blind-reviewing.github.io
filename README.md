@@ -47,13 +47,13 @@ with the program chair(s).
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
 | ICFP       | **Y** |  | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
-| NeurIPS    | **Y** (*) | | https://nips.cc/Conferences/2019/CallForPapers |
+| NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
 | POPL       | **Y** |  | https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers |
 |            |      |                   |                                                         |
 | _single-blind conferences_ | | | |
 | VLDB       |      |                         | https://vldb2020.org/submission-guidelines.html |
 
-*: Blind for reviewers, but not for area chairs or program chair.
+*: Blind for reviewers, but not for area chairs.
 
 ## Resources related to double-blind reviewing
 
