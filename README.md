@@ -42,18 +42,18 @@ with the program chair(s).
 | SOSP       | **Y**     | **Y**      | https://sosp19.rcs.uwaterloo.ca/cfp.html |
 | USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
 |            |      |                   |                                                         |
-| _pending verification of double blind-to-accept status_ | | | |
+| _pending verification of full double-blind status_ | | | |
 | MICRO      | **Y**     | ? | https://www.microarch.org/micro52/submit/guidelines.html |
+| NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
 | ICFP       | **Y** |  | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
-| NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
 | POPL       | **Y** |  | https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers |
 |            |      |                   |                                                         |
 | _single-blind conferences_ | | | |
 | VLDB       |      |                         | https://vldb2020.org/submission-guidelines.html |
 
-*: Blind for reviewers, but not for area chairs.
+*: NeurIPS 2019 was blind for reviewers, but not for area chairs.
 
 ## Resources related to double-blind reviewing
 
