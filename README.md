@@ -34,6 +34,7 @@ with the program chair(s).
 | ICML       | **Y**     | **Y** | https://icml.cc/Conferences/2020/CallForPapers |
 | ICSE       | **Y**     | **Y**      | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
 | ISCA       | **Y**     | **Y** | https://www.iscaconf.org/isca2020/submit/guidelines.html |
+| MICRO      | **Y**     | **Y** | https://www.microarch.org/micro52/submit/guidelines.html |
 | NSDI       | **Y**     | **Y** | https://www.usenix.org/conference/nsdi20/call-for-papers |
 | Oakland (IEEE S&P) | **Y** | **Y** | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
 | OOPSLA     | **Y**     | **Y**      | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
@@ -44,7 +45,6 @@ with the program chair(s).
 | USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
 |            |      |                   |                                                         |
 | _pending verification of full double-blind status_ | | | |
-| MICRO      | **Y**     | ? | https://www.microarch.org/micro52/submit/guidelines.html |
 | NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
