@@ -7,3 +7,7 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
 title: Computer science conferences: Double-blind status
+description: Foo
+author:
+  name: Emery Berger
+
