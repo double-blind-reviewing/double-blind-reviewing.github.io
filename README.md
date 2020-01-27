@@ -1,5 +1,3 @@
-# Computer science conferences: Double-blind status
-
 This document tracks the status of major computer science conferences
 (currently defined as those listed in http://csrankings.org) with
 respect to how they maintain anonymity during the reviewing process;
