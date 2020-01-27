@@ -1,11 +1,5 @@
 theme: jekyll-theme-slate
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-  parse_block_html: true
-  syntax_highlighter_opts:
-    disable: true
+markdown: GFM
 title: Computer science conferences - Double-blind status
 author:
   name: Emery Berger
