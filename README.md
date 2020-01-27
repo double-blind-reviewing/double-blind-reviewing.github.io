@@ -26,32 +26,34 @@ with the program chair(s).
 | :--        | :--: | :--:                    | :--           |
 |            |      |                         |               |
 | _fully double-blind conferences_ | 
-| ASPLOS     | :heavy_check_mark:     | :heavy_check_mark:      | https://asplos-conference.org/submissions/ |
-| CAV        | :heavy_check_mark:     | :heavy_check_mark:      | http://i-cav.org/2020/call-for-papers/ |
-| CCS        | :heavy_check_mark:     | :heavy_check_mark:      | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
-| FSE        | :heavy_check_mark:     | :heavy_check_mark: | https://2020.esec-fse.org/track/fse-2020-papers |
-| ICML       | :heavy_check_mark:     | :heavy_check_mark: | https://icml.cc/Conferences/2020/CallForPapers |
-| ICSE       | :heavy_check_mark:     | :heavy_check_mark:      | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
-| ISCA       | :heavy_check_mark:     | :heavy_check_mark: | https://www.iscaconf.org/isca2020/submit/guidelines.html |
-| NSDI       | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/nsdi20/call-for-papers |
-| Oakland (IEEE S&P) | :heavy_check_mark: | :heavy_check_mark: | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
-| OOPSLA     | :heavy_check_mark:     | :heavy_check_mark:      | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
-| OSDI       | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/osdi20/call-for-papers |
-| PLDI       | :heavy_check_mark:     | :heavy_check_mark:      | http://www.sigplan.org/sites/default/files/PracticesofPLDI.pdf, https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing |
-| SIGMOD     | :heavy_check_mark:     | :heavy_check_mark: | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
-| SOSP       | :heavy_check_mark:     | :heavy_check_mark:      | https://sosp19.rcs.uwaterloo.ca/cfp.html |
-| USENIX ATC | :heavy_check_mark:     | :heavy_check_mark: | https://www.usenix.org/conference/atc20/call-for-papers |
+| ASPLOS     | **Y**     | **Y**      | https://asplos-conference.org/submissions/ |
+| CAV        | **Y**     | **Y**      | http://i-cav.org/2020/call-for-papers/ |
+| CCS        | **Y**     | **Y**      | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
+| FSE        | **Y**     | **Y** | https://2020.esec-fse.org/track/fse-2020-papers |
+| ICML       | **Y**     | **Y** | https://icml.cc/Conferences/2020/CallForPapers |
+| ICSE       | **Y**     | **Y**      | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
+| ISCA       | **Y**     | **Y** | https://www.iscaconf.org/isca2020/submit/guidelines.html |
+| NSDI       | **Y**     | **Y** | https://www.usenix.org/conference/nsdi20/call-for-papers |
+| Oakland (IEEE S&P) | **Y** | **Y** | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
+| OOPSLA     | **Y**     | **Y**      | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
+| OSDI       | **Y**     | **Y** | https://www.usenix.org/conference/osdi20/call-for-papers |
+| PLDI       | **Y**     | **Y**      | http://www.sigplan.org/sites/default/files/PracticesofPLDI.pdf, https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing |
+| SIGMOD     | **Y**     | **Y** | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
+| SOSP       | **Y**     | **Y**      | https://sosp19.rcs.uwaterloo.ca/cfp.html |
+| USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
 |            |      |                   |                                                         |
 | _pending verification of double blind-to-accept status_ | | | |
-| MICRO      | :heavy_check_mark:     | ? | https://www.microarch.org/micro52/submit/guidelines.html |
+| MICRO      | **Y**     | ? | https://www.microarch.org/micro52/submit/guidelines.html |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
-| ICFP       | :heavy_check_mark: |  | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
-| NeurIPS    | blind for reviewers, not area chairs or program chair | | https://nips.cc/Conferences/2019/CallForPapers |
-| POPL       | :heavy_check_mark: |  | https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers |
+| ICFP       | **Y** |  | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
+| NeurIPS    | **Y** (*) | | https://nips.cc/Conferences/2019/CallForPapers |
+| POPL       | **Y** |  | https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers |
 |            |      |                   |                                                         |
 | _single-blind conferences_ | | | |
 | VLDB       |      |                         | https://vldb2020.org/submission-guidelines.html |
+
+*: Blind for reviewers, but not for area chairs or program chair.
 
 ## Resources related to double-blind reviewing
 
