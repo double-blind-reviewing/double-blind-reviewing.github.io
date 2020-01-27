@@ -3,7 +3,8 @@
 This document tracks the status of major computer science conferences
 (currently defined as those listed in [CSrankings](http://csrankings.org)) with
 respect to how they maintain anonymity during the reviewing process;
-it is curated by [Emery Berger](https://emeryberger.com).
+it is curated by [Emery Berger](https://emeryberger.com). For additions or updates,
+please post an issue or pull request [on its GitHub repository](https://github.com/double-blind-reviewing/double-blind-reviewing.github.io).
 
 For the purposes of this document:
 
