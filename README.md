@@ -52,6 +52,9 @@ with the program chair(s).
 | POPL       | **Y** |  | https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers |
 |            |      |                   |                                                         |
 | _single-blind conferences_ | | | |
+| FOCS       |      |                         | http://focs2019.cs.jhu.edu/cfp/ |
+| SODA       |      |                         | https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines |
+| STOC       |      |                         | http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf |
 | VLDB       |      |                         | https://vldb2020.org/submission-guidelines.html |
 
 *: NeurIPS 2019 was blind for reviewers, but not for area chairs.
