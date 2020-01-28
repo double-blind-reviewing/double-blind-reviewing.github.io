@@ -61,6 +61,7 @@ with the program chair(s).
 |            |           |       |                                                         |
 | _partially double-blind conferences_ | | | |
 | ICFP       | **Y**     |       | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
+| ISSTA      | **Y**     |       | https://conf.researchr.org/track/issta-2020/issta-2020-papers#Double-Blind-Reviewing |
 | LICS       | **Y**     |       | https://lics.siglog.org/lics20/cfp.php |
 | MobiSys    | **Y**     |       | https://www.sigmobile.org/mobisys/2020/cfp/ |
 | POPL       | **Y**     |       | https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers |
