@@ -48,13 +48,14 @@ with the program chair(s).
 | SOSP       | **Y**     | **Y** | https://sosp19.rcs.uwaterloo.ca/cfp.html |
 | USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
 | USENIX Security | **Y** | **Y**  | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
-|            |      |                   |                                                         |
+|            |           |       |                                                         |
 | _pending verification of full double-blind status_ | | | |
+| CHI        | **Y**     |   ?   | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
 | CRYPTO     | **Y**     |   ?   | https://crypto.iacr.org/2020/callforpapers.html |
-| NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
-|            |      |                   |                                                         |
+| NeurIPS    | **Y** (*) |   ?   | https://nips.cc/Conferences/2019/CallForPapers |
+|            |           |       |                                                         |
 | _partially double-blind conferences_ | | | |
-| ICFP       | **Y** |  | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
+| ICFP       | **Y** |   | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
 | LICS       | **Y** |  | https://lics.siglog.org/lics20/cfp.php |
 | POPL       | **Y** |  | https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers |
 |            |      |                   |                                                         |
