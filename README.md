@@ -40,13 +40,13 @@ with the program chair(s).
 | OOPSLA     | **Y**     | **Y**      | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
 | OSDI       | **Y**     | **Y** | https://www.usenix.org/conference/osdi20/call-for-papers |
 | PLDI       | **Y**     | **Y**      | http://www.sigplan.org/sites/default/files/PracticesofPLDI.pdf, https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing |
+| SIGCOMM    | **Y**     | **Y** | https://conferences.sigcomm.org/sigcomm/2020/submission.html |
 | SIGMOD     | **Y**     | **Y** | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
 | SOSP       | **Y**     | **Y**      | https://sosp19.rcs.uwaterloo.ca/cfp.html |
 | USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
 |            |      |                   |                                                         |
 | _pending verification of full double-blind status_ | | | |
 | NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
-| SIGCOMM    | **Y**     | ? | https://conferences.sigcomm.org/sigcomm/2020/submission.html |
 | USENIX Security | **Y** | ?    | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
