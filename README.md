@@ -26,7 +26,7 @@ with the program chair(s).
 | Conference | At least partially double-blind? | Fully double-blind (blind to accept)? | CFP or similar |
 | :--        | :--: | :--:                    | :--           |
 |            |      |                         |               |
-| _fully double-blind conferences_ | 
+| _fully double-blind conferences_ |
 | ASPLOS     | **Y**     | **Y** | https://asplos-conference.org/submissions/ |
 | CAV        | **Y**     | **Y** | http://i-cav.org/2020/call-for-papers/ |
 | CCS        | **Y**     | **Y** | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
@@ -48,6 +48,7 @@ with the program chair(s).
 | USENIX Security | **Y** | **Y**  | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 |            |      |                   |                                                         |
 | _pending verification of full double-blind status_ | | | |
+| ASE        | **Y**     | ? | https://conf.researchr.org/track/ase-2020/ase-2020-papers |
 | NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
