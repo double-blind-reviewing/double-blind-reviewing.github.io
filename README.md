@@ -46,6 +46,7 @@ with the program chair(s).
 | SIGCOMM    | **Y**     | **Y** | https://conferences.sigcomm.org/sigcomm/2020/submission.html |
 | SIGGRAPH   | **Y**     | **Y** | https://s2020.siggraph.org/submissions/technical-papers-submissions/technical-papers-submissions-faq/ |
 | SIGMETRICS | **Y**     | **Y** | https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html |
+| SIGMOBILE  | **Y**     | **Y** | https://sigmobile.org/mobicom/2020/ |
 | SIGMOD     | **Y**     | **Y** | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
 | SOSP       | **Y**     | **Y** | https://sosp19.rcs.uwaterloo.ca/cfp.html |
 | USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
