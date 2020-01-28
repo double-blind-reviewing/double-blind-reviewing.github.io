@@ -70,6 +70,7 @@ with the program chair(s).
 | _single-blind conferences_ | | | |
 | FOCS       |           |       | http://focs2019.cs.jhu.edu/cfp/ |
 | ICDE       |           |       | https://www.utdallas.edu/icde/call.html |
+| ICRA       |           |       | https://www.icra2020.org/call-for-papers |
 | PODS       |           |       | https://sigmod2020.org/calls_papers_pods_research.shtml |
 | SODA       |           |       | https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines |
 | STOC       |           |       | http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf |
@@ -86,3 +87,5 @@ with the program chair(s).
 * [**Improving Publication Quality by Reducing Bias with Double-Blind Reviewing and Author Response**](http://www.cs.utexas.edu/users/mckinley/papers/blind-2008.pdf); McKinley, ACM SIGPLAN Notices, 43(8):5--9, 2008.
 
 * [**More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings**](http://www.cs.utexas.edu/users/mckinley/notes/blind.html), McKinley, 2015.
+
+* [**A case for double-blind reviewing in software engineering**](https://people.cs.umass.edu/~brun/doubleblind.html), Brun, 2015.
