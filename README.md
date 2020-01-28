@@ -43,10 +43,10 @@ with the program chair(s).
 | SIGMOD     | **Y**     | **Y** | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
 | SOSP       | **Y**     | **Y**      | https://sosp19.rcs.uwaterloo.ca/cfp.html |
 | USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
-| USENIX Security | **Y** | ?    | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 |            |      |                   |                                                         |
 | _pending verification of full double-blind status_ | | | |
 | NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
+| USENIX Security | **Y** | ?    | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
 | ICFP       | **Y** |  | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
