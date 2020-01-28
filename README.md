@@ -30,6 +30,7 @@ with the program chair(s).
 | ASPLOS     | **Y**     | **Y** | https://asplos-conference.org/submissions/ |
 | CAV        | **Y**     | **Y** | http://i-cav.org/2020/call-for-papers/ |
 | CCS        | **Y**     | **Y** | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
+| EuroSys    | **Y**     | **Y** | https://www.eurosys2020.org/call-for-papers/ |
 | FSE        | **Y**     | **Y** | https://2020.esec-fse.org/track/fse-2020-papers |
 | ICML       | **Y**     | **Y** | https://icml.cc/Conferences/2020/CallForPapers |
 | ICSE       | **Y**     | **Y** | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
@@ -47,7 +48,6 @@ with the program chair(s).
 | USENIX Security | **Y** | **Y**  | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 |            |      |                   |                                                         |
 | _pending verification of full double-blind status_ | | | |
-| EuroSys    | **Y**     | ? | https://www.eurosys2020.org/call-for-papers/ |
 | NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
