@@ -9,24 +9,27 @@ please post an issue or pull request [on its GitHub repository](https://github.c
 For the purposes of this document:
 
 * _Single-blind_ means that author identities and affiliations are visible
-to reviewers at all points during the reviewing process.
+to reviewers at all points during the reviewing process, while reviewer identities
+are hidden from authors.
 
 * _At least partially double-blind_ means that author identities and
 affiliations are not revealed for papers prior to the submission of
-_initial_ paper reviews.
+_initial_ paper reviews, and reviewer identities are hidden from authors.
 
 * _Fully double-blind_ means that "double-blind to accept" is
-employed.  That is, author identities and affiliations are not
-revealed until the conclusion of the PC meeting, and only for accepted
-papers (including conditionally-accepted papers, pending modifications
-due to shepherding). In cases where the CFP does not explicitly state
-the use of full double-blind reviewing, this status has been verified directly
-with the program chair(s).
+employed. That is, author identities and affiliations are not
+revealed _to reviewers_ until the conclusion of the PC meeting, and
+only for accepted papers (including conditionally-accepted papers,
+pending modifications due to shepherding). In cases where the CFP does
+not explicitly state the use of full double-blind reviewing, this
+status has been verified directly with the program chair(s).
 
 | Conference | At least partially double-blind? | Fully double-blind (blind to accept)? | CFP or similar |
 | :--        | :--:      | :--:    | :--           |
 |            |           |         |               |
 | _fully double-blind conferences_ |
+| AAAI       | **Y**     | **Y** | https://aaai.org/Conferences/AAAI-20/aaai20call/ |
+| ACL        | **Y**     | **Y** | https://acl2020.org/calls/papers/ |
 | ASE        | **Y**     | **Y** | https://conf.researchr.org/track/ase-2020/ase-2020-papers |
 | ASPLOS     | **Y**     | **Y** | https://asplos-conference.org/submissions/ |
 | CAV        | **Y**     | **Y** | http://i-cav.org/2020/call-for-papers/ |
@@ -36,10 +39,12 @@ with the program chair(s).
 | EMNLP      | **Y**     | **Y** | https://2020.emnlp.org/call-for-papers |
 | EuroSys    | **Y**     | **Y** | https://www.eurosys2020.org/call-for-papers/ |
 | FSE        | **Y**     | **Y** | https://2020.esec-fse.org/track/fse-2020-papers |
+| HPCA       | **Y**     | **Y** | https://www.hpca-conf.org/2020/calls/ |
 | ICML       | **Y**     | **Y** | https://icml.cc/Conferences/2020/CallForPapers |
 | ICSE       | **Y**     | **Y** | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
 | IJCAI      | **Y**     | **Y** | https://ijcai20.org/call-for-papers.html |
 | ISCA       | **Y**     | **Y** | https://www.iscaconf.org/isca2020/submit/guidelines.html |
+| KDD        | **Y**     | **Y** | https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers |
 | MICRO      | **Y**     | **Y** | https://www.microarch.org/micro52/submit/guidelines.html |
 | MobiCom    | **Y**     | **Y** | https://sigmobile.org/mobicom/2020/ |
 | NSDI       | **Y**     | **Y** | https://www.usenix.org/conference/nsdi20/call-for-papers |
@@ -57,13 +62,9 @@ with the program chair(s).
 | WWW        | **Y**     | **Y** | https://www2020.thewebconf.org/call-for-contributions#instructions |
 |            |           |       |                                                         |
 | _pending verification of full double-blind status_ | | | |
-| AAAI       | **Y**     |   ?   | https://aaai.org/Conferences/AAAI-20/aaai20call/ |
-| ACL        | **Y**     |   ?   | https://acl2020.org/calls/papers/ |
 | CHI        | **Y**     |   ?   | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
-| HPCA       | **Y**     |   ?   | https://www.hpca-conf.org/2020/calls/ |
-| KDD        | **Y**     |   ?   | https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers |
 | NDSS       | **Y**     |   ?   | https://www.ndss-symposium.org/ndss2020/call-for-papers/ |
-| NeurIPS    | **Y** (*) |   ?   | https://nips.cc/Conferences/2019/CallForPapers |
+| NeurIPS    | **Y**     |   ?   | https://nips.cc/Conferences/2019/CallForPapers |
 |            |           |       |                                                         |
 | _partially double-blind conferences_ | | | |
 | ICFP       | **Y**     |       | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
@@ -76,12 +77,11 @@ with the program chair(s).
 | FOCS       |           |       | http://focs2019.cs.jhu.edu/cfp/ |
 | ICDE       |           |       | https://www.utdallas.edu/icde/call.html |
 | ICRA       |           |       | https://www.icra2020.org/call-for-papers |
+| IROS       |           |       | http://www.iros2020.org/2submission/CallforPapers.html |
 | PODS       |           |       | https://sigmod2020.org/calls_papers_pods_research.shtml |
 | SODA       |           |       | https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines |
 | STOC       |           |       | http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf |
 | VLDB       |           |       | https://vldb2020.org/submission-guidelines.html |
-
-*: NeurIPS 2019 was blind for reviewers, but not for area chairs.
 
 ## Resources related to double-blind reviewing
 
