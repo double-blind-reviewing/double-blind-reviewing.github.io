@@ -47,6 +47,7 @@ with the program chair(s).
 | USENIX Security | **Y** | **Y**  | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 |            |      |                   |                                                         |
 | _pending verification of full double-blind status_ | | | |
+| EuroSys    | **Y**     | ? | https://www.eurosys2020.org/call-for-papers/ |
 | NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
