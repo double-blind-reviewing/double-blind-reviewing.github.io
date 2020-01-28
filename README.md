@@ -27,27 +27,27 @@ with the program chair(s).
 | :--        | :--: | :--:                    | :--           |
 |            |      |                         |               |
 | _fully double-blind conferences_ | 
-| ASPLOS     | **Y**     | **Y**      | https://asplos-conference.org/submissions/ |
-| CAV        | **Y**     | **Y**      | http://i-cav.org/2020/call-for-papers/ |
-| CCS        | **Y**     | **Y**      | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
+| ASPLOS     | **Y**     | **Y** | https://asplos-conference.org/submissions/ |
+| CAV        | **Y**     | **Y** | http://i-cav.org/2020/call-for-papers/ |
+| CCS        | **Y**     | **Y** | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
 | FSE        | **Y**     | **Y** | https://2020.esec-fse.org/track/fse-2020-papers |
 | ICML       | **Y**     | **Y** | https://icml.cc/Conferences/2020/CallForPapers |
-| ICSE       | **Y**     | **Y**      | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
+| ICSE       | **Y**     | **Y** | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
 | ISCA       | **Y**     | **Y** | https://www.iscaconf.org/isca2020/submit/guidelines.html |
 | MICRO      | **Y**     | **Y** | https://www.microarch.org/micro52/submit/guidelines.html |
 | NSDI       | **Y**     | **Y** | https://www.usenix.org/conference/nsdi20/call-for-papers |
-| Oakland (IEEE S&P) | **Y** | **Y** | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
-| OOPSLA     | **Y**     | **Y**      | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
+| Oakland (IEEE S&P)     | **Y** | **Y** | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
+| OOPSLA     | **Y**     | **Y** | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
 | OSDI       | **Y**     | **Y** | https://www.usenix.org/conference/osdi20/call-for-papers |
-| PLDI       | **Y**     | **Y**      | http://www.sigplan.org/sites/default/files/PracticesofPLDI.pdf, https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing |
+| PLDI       | **Y**     | **Y** | http://www.sigplan.org/sites/default/files/PracticesofPLDI.pdf, https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing |
 | SIGCOMM    | **Y**     | **Y** | https://conferences.sigcomm.org/sigcomm/2020/submission.html |
 | SIGMOD     | **Y**     | **Y** | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
-| SOSP       | **Y**     | **Y**      | https://sosp19.rcs.uwaterloo.ca/cfp.html |
+| SOSP       | **Y**     | **Y** | https://sosp19.rcs.uwaterloo.ca/cfp.html |
 | USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
+| USENIX Security | **Y** | **Y**  | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 |            |      |                   |                                                         |
 | _pending verification of full double-blind status_ | | | |
 | NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
-| USENIX Security | **Y** | ?    | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
 | ICFP       | **Y** |  | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
