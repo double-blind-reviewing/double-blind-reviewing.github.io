@@ -49,6 +49,7 @@ been verified directly with the program chair(s).
 | KDD        | **Y**     | **Y** | https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers |
 | MICRO      | **Y**     | **Y** | https://www.microarch.org/micro52/submit/guidelines.html |
 | MobiCom    | **Y**     | **Y** | https://sigmobile.org/mobicom/2020/ |
+| NeurIPS    | **Y**     | **Y** | https://nips.cc/Conferences/2019/CallForPapers |
 | NSDI       | **Y**     | **Y** | https://www.usenix.org/conference/nsdi20/call-for-papers |
 | Oakland (IEEE S&P)     | **Y** | **Y** | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
 | OOPSLA     | **Y**     | **Y** | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
@@ -66,7 +67,6 @@ been verified directly with the program chair(s).
 | _pending verification of full double-blind status_ | | | |
 | CHI        | **Y**     |   ?   | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
 | NDSS       | **Y**     |   ?   | https://www.ndss-symposium.org/ndss2020/call-for-papers/ |
-| NeurIPS    | **Y**     |   ?   | https://nips.cc/Conferences/2019/CallForPapers |
 |            |           |       |                                                         |
 | _partially double-blind conferences_ | | | |
 | ICFP       | **Y**     |       | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
