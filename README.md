@@ -86,8 +86,11 @@ been verified directly with the program chair(s).
 | SODA       |           |       | https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines |
 | STOC       |           |       | http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf |
 | VLDB       |           |       | https://vldb2020.org/submission-guidelines.html |
+| VIS        |   **      |       | http://ieeevis.org/year/2020/info/call-participation/paper-submission-guidelines#anonymization |
 
-(*): CHI's process has a single meta-reviewer who knows the identities of all authors.
+
+(*): CHI's process has a single meta-reviewer who knows the identities of all authors.  
+(**): VIS' process is optionally double blind for external reviewers only; PC members know all author's identity.   
 
 ## Resources related to double-blind reviewing
 
