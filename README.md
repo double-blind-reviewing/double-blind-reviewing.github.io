@@ -36,6 +36,7 @@ been verified directly with the program chair(s).
 | ASPLOS     | **Y**     | **Y** | https://asplos-conference.org/submissions/ |
 | CAV        | **Y**     | **Y** | http://i-cav.org/2020/call-for-papers/ |
 | CCS        | **Y**     | **Y** | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
+| CHI        | **Y**(*)  | **Y** | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
 | CRYPTO     | **Y**     | **Y** | https://crypto.iacr.org/2020/callforpapers.html |
 | CVPR       | **Y**     | **Y** | http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers |
 | ECCV       | **Y**     | **Y** | https://eccv2020.eu/author-instructions/ |
@@ -66,7 +67,6 @@ been verified directly with the program chair(s).
 | WWW        | **Y**     | **Y** | https://www2020.thewebconf.org/call-for-contributions#instructions |
 |            |           |       |                                                         |
 | _pending verification of full double-blind status_ | | | |
-| CHI        | **Y**     |   ?   | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
 | FAST       | **Y**     |   ?   | https://www.usenix.org/conference/fast20/call-for-papers |
 | NDSS       | **Y**     |   ?   | https://www.ndss-symposium.org/ndss2020/call-for-papers/ |
 |            |           |       |                                                         |
@@ -86,6 +86,8 @@ been verified directly with the program chair(s).
 | SODA       |           |       | https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines |
 | STOC       |           |       | http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf |
 | VLDB       |           |       | https://vldb2020.org/submission-guidelines.html |
+
+(*): CHI's process has a single meta-reviewer who knows the identities of all authors.
 
 ## Resources related to double-blind reviewing
 
