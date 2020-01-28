@@ -50,6 +50,7 @@ with the program chair(s).
 | USENIX Security | **Y** | **Y**  | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 |            |           |       |                                                         |
 | _pending verification of full double-blind status_ | | | |
+| AAAI       | **Y**     |   ?   | https://aaai.org/Conferences/AAAI-20/aaai20call/ |
 | CHI        | **Y**     |   ?   | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
 | CRYPTO     | **Y**     |   ?   | https://crypto.iacr.org/2020/callforpapers.html |
 | NeurIPS    | **Y** (*) |   ?   | https://nips.cc/Conferences/2019/CallForPapers |
