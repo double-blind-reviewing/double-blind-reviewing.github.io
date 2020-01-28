@@ -24,8 +24,8 @@ the use of full double-blind reviewing, this status has been verified directly
 with the program chair(s).
 
 | Conference | At least partially double-blind? | Fully double-blind (blind to accept)? | CFP or similar |
-| :--        | :--: | :--:                    | :--           |
-|            |      |                         |               |
+| :--        | :--:      | :--:    | :--           |
+|            |           |         |               |
 | _fully double-blind conferences_ |
 | ASE        | **Y**     | **Y** | https://conf.researchr.org/track/ase-2020/ase-2020-papers |
 | ASPLOS     | **Y**     | **Y** | https://asplos-conference.org/submissions/ |
@@ -54,19 +54,20 @@ with the program chair(s).
 | CHI        | **Y**     |   ?   | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
 | CRYPTO     | **Y**     |   ?   | https://crypto.iacr.org/2020/callforpapers.html |
 | NeurIPS    | **Y** (*) |   ?   | https://nips.cc/Conferences/2019/CallForPapers |
+| SIGMETRICS | **Y**     |   ?   | https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html |
 |            |           |       |                                                         |
 | _partially double-blind conferences_ | | | |
-| ICFP       | **Y** |   | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
-| LICS       | **Y** |  | https://lics.siglog.org/lics20/cfp.php |
-| POPL       | **Y** |  | https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers |
-|            |      |                   |                                                         |
+| ICFP       | **Y**     |       | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
+| LICS       | **Y**     |       | https://lics.siglog.org/lics20/cfp.php |
+| POPL       | **Y**     |       | https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers |
+|            |           |       |                                                         |
 | _single-blind conferences_ | | | |
-| FOCS       |      |                         | http://focs2019.cs.jhu.edu/cfp/ |
-| ICDE       |      |                         | https://www.utdallas.edu/icde/call.html |
-| PODS       |      |                         | https://sigmod2020.org/calls_papers_pods_research.shtml |
-| SODA       |      |                         | https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines |
-| STOC       |      |                         | http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf |
-| VLDB       |      |                         | https://vldb2020.org/submission-guidelines.html |
+| FOCS       |           |       | http://focs2019.cs.jhu.edu/cfp/ |
+| ICDE       |           |       | https://www.utdallas.edu/icde/call.html |
+| PODS       |           |       | https://sigmod2020.org/calls_papers_pods_research.shtml |
+| SODA       |           |       | https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines |
+| STOC       |           |       | http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf |
+| VLDB       |           |       | https://vldb2020.org/submission-guidelines.html |
 
 *: NeurIPS 2019 was blind for reviewers, but not for area chairs.
 
