@@ -52,6 +52,7 @@ with the program chair(s).
 |            |           |       |                                                         |
 | _pending verification of full double-blind status_ | | | |
 | AAAI       | **Y**     |   ?   | https://aaai.org/Conferences/AAAI-20/aaai20call/ |
+| ACL        | **Y**     |   ?   | https://acl2020.org/calls/papers/ |
 | CHI        | **Y**     |   ?   | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
 | CRYPTO     | **Y**     |   ?   | https://crypto.iacr.org/2020/callforpapers.html |
 | NeurIPS    | **Y** (*) |   ?   | https://nips.cc/Conferences/2019/CallForPapers |
