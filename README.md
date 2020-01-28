@@ -44,6 +44,7 @@ with the program chair(s).
 | PLDI       | **Y**     | **Y** | http://www.sigplan.org/sites/default/files/PracticesofPLDI.pdf, https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing |
 | SIGCOMM    | **Y**     | **Y** | https://conferences.sigcomm.org/sigcomm/2020/submission.html |
 | SIGGRAPH   | **Y**     | **Y** | https://s2020.siggraph.org/submissions/technical-papers-submissions/technical-papers-submissions-faq/ |
+| SIGMETRICS | **Y**     | **Y** | https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html |
 | SIGMOD     | **Y**     | **Y** | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
 | SOSP       | **Y**     | **Y** | https://sosp19.rcs.uwaterloo.ca/cfp.html |
 | USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
@@ -54,7 +55,6 @@ with the program chair(s).
 | CHI        | **Y**     |   ?   | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
 | CRYPTO     | **Y**     |   ?   | https://crypto.iacr.org/2020/callforpapers.html |
 | NeurIPS    | **Y** (*) |   ?   | https://nips.cc/Conferences/2019/CallForPapers |
-| SIGMETRICS | **Y**     |   ?   | https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html |
 |            |           |       |                                                         |
 | _partially double-blind conferences_ | | | |
 | ICFP       | **Y**     |       | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
