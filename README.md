@@ -77,7 +77,7 @@ with the program chair(s).
 
 ## Resources related to double-blind reviewing
 
-* [**Reviewer bias in single- versus double-blind peer review**](https://www.pnas.org/content/114/48/12708), Tomkins, Zhang, and Heavlin. PNAS November 28, 2017 114 (48) 12708-12713; first published November 14, 2017. "The WSDM Experiment"
+* [**Reviewer bias in single- versus double-blind peer review**](https://www.pnas.org/content/114/48/12708), Tomkins, Zhang, and Heavlin. PNAS November 28, 2017 114 (48) 12708-12713; first published November 14, 2017. (a.k.a., _the WSDM Experiment_)
 
 * [**Effectiveness of Anonymization in Double-Blind Reviewing**](https://dl.acm.org/doi/10.1145/3208157), Le Goues, Brun, Appel, Berger, Khurshid, and Smaragdakis; Communications of the ACM, May 2018. [ArXiv link](https://arxiv.org/abs/1709.01609)
 
