@@ -62,7 +62,8 @@ with the program chair(s).
 |            |      |                   |                                                         |
 | _single-blind conferences_ | | | |
 | FOCS       |      |                         | http://focs2019.cs.jhu.edu/cfp/ |
-| ICDE       |      |                         |https://www.utdallas.edu/icde/call.html |
+| ICDE       |      |                         | https://www.utdallas.edu/icde/call.html |
+| PODS       |      |                         | https://sigmod2020.org/calls_papers_pods_research.shtml |
 | SODA       |      |                         | https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines |
 | STOC       |      |                         | http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf |
 | VLDB       |      |                         | https://vldb2020.org/submission-guidelines.html |
