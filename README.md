@@ -46,6 +46,7 @@ with the program chair(s).
 |            |      |                   |                                                         |
 | _pending verification of full double-blind status_ | | | |
 | NeurIPS    | **Y** (*) | ? | https://nips.cc/Conferences/2019/CallForPapers |
+| SIGCOMM    | **Y**     | ? | https://conferences.sigcomm.org/sigcomm/2020/submission.html |
 | USENIX Security | **Y** | ?    | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
