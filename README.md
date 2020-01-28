@@ -62,6 +62,7 @@ with the program chair(s).
 | CHI        | **Y**     |   ?   | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
 | HPCA       | **Y**     |   ?   | https://www.hpca-conf.org/2020/calls/ |
 | KDD        | **Y**     |   ?   | https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers |
+| NDSS       | **Y**     |   ?   | https://www.ndss-symposium.org/ndss2020/call-for-papers/ |
 | NeurIPS    | **Y** (*) |   ?   | https://nips.cc/Conferences/2019/CallForPapers |
 |            |           |       |                                                         |
 | _partially double-blind conferences_ | | | |
