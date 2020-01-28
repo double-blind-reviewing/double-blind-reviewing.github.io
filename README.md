@@ -38,6 +38,7 @@ with the program chair(s).
 | ICSE       | **Y**     | **Y** | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
 | ISCA       | **Y**     | **Y** | https://www.iscaconf.org/isca2020/submit/guidelines.html |
 | MICRO      | **Y**     | **Y** | https://www.microarch.org/micro52/submit/guidelines.html |
+| MobiCom    | **Y**     | **Y** | https://sigmobile.org/mobicom/2020/ |
 | NSDI       | **Y**     | **Y** | https://www.usenix.org/conference/nsdi20/call-for-papers |
 | Oakland (IEEE S&P)     | **Y** | **Y** | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
 | OOPSLA     | **Y**     | **Y** | https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers |
@@ -46,7 +47,6 @@ with the program chair(s).
 | SIGCOMM    | **Y**     | **Y** | https://conferences.sigcomm.org/sigcomm/2020/submission.html |
 | SIGGRAPH   | **Y**     | **Y** | https://s2020.siggraph.org/submissions/technical-papers-submissions/technical-papers-submissions-faq/ |
 | SIGMETRICS | **Y**     | **Y** | https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html |
-| SIGMOBILE  | **Y**     | **Y** | https://sigmobile.org/mobicom/2020/ |
 | SIGMOD     | **Y**     | **Y** | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
 | SOSP       | **Y**     | **Y** | https://sosp19.rcs.uwaterloo.ca/cfp.html |
 | USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
