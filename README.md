@@ -38,6 +38,7 @@ been verified directly with the program chair(s).
 | CCS        | **Y**     | **Y** | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
 | CHI        | **Y**(*)  | **Y** | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
 | CRYPTO     | **Y**     | **Y** | https://crypto.iacr.org/2020/callforpapers.html |
+| CSF        | **Y**     | **Y** | https://www.ieee-security.org/TC/CSF2020/cfp.html |
 | CVPR       | **Y**     | **Y** | http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers |
 | ECCV       | **Y**     | **Y** | https://eccv2020.eu/author-instructions/ |
 | EMNLP      | **Y**     | **Y** | https://2020.emnlp.org/call-for-papers |
