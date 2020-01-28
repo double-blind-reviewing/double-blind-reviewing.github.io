@@ -66,6 +66,7 @@ been verified directly with the program chair(s).
 |            |           |       |                                                         |
 | _pending verification of full double-blind status_ | | | |
 | CHI        | **Y**     |   ?   | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
+| ECCV       | **Y**     |   ?   | https://eccv2020.eu/author-instructions/ |
 | FAST       | **Y**     |   ?   | https://www.usenix.org/conference/fast20/call-for-papers |
 | NDSS       | **Y**     |   ?   | https://www.ndss-symposium.org/ndss2020/call-for-papers/ |
 |            |           |       |                                                         |
