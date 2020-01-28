@@ -60,7 +60,7 @@ been verified directly with the program chair(s).
 | SIGMOD     | **Y**     | **Y** | https://sigmod2020.org/calls_papers_sigmod_research.shtml |
 | SOSP       | **Y**     | **Y** | https://sosp19.rcs.uwaterloo.ca/cfp.html |
 | USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
-| USENIX Security | **Y** | **Y**  | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
+| USENIX Security | **Y**     | **Y** | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 | WWW        | **Y**     | **Y** | https://www2020.thewebconf.org/call-for-contributions#instructions |
 |            |           |       |                                                         |
 | _pending verification of full double-blind status_ | | | |
