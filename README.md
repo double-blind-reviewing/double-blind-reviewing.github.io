@@ -13,16 +13,18 @@ to reviewers at all points during the reviewing process, while reviewer identiti
 are hidden from authors.
 
 * _At least partially double-blind_ means that author identities and
-affiliations are not revealed for papers prior to the submission of
+affiliations are not revealed to reviewers for papers prior to the submission of
 _initial_ paper reviews, and reviewer identities are hidden from authors.
 
 * _Fully double-blind_ means that "double-blind to accept" is
 employed. That is, author identities and affiliations are not
-revealed _to reviewers_ until the conclusion of the PC meeting, and
+revealed to reviewers until the conclusion of the PC meeting, and
 only for accepted papers (including conditionally-accepted papers,
-pending modifications due to shepherding). In cases where the CFP does
-not explicitly state the use of full double-blind reviewing, this
-status has been verified directly with the program chair(s).
+pending modifications due to shepherding).
+
+In cases where the CFP does not explicitly state the use of blind
+reviewing (or whether it is fully double-blind or not), this status has
+been verified directly with the program chair(s).
 
 | Conference | At least partially double-blind? | Fully double-blind (blind to accept)? | CFP or similar |
 | :--        | :--:      | :--:    | :--           |
