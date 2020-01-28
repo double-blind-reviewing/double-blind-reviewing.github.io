@@ -51,6 +51,7 @@ with the program chair(s).
 |            |      |                   |                                                         |
 | _partially double-blind conferences_ | | | |
 | ICFP       | **Y** |  | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
+| LICS       | **Y** |  | https://lics.siglog.org/lics20/cfp.php |
 | POPL       | **Y** |  | https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers |
 |            |      |                   |                                                         |
 | _single-blind conferences_ | | | |
