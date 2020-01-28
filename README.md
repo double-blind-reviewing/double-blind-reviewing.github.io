@@ -38,6 +38,7 @@ been verified directly with the program chair(s).
 | CCS        | **Y**     | **Y** | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
 | CRYPTO     | **Y**     | **Y** | https://crypto.iacr.org/2020/callforpapers.html |
 | CVPR       | **Y**     | **Y** | http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers |
+| ECCV       | **Y**     | **Y** | https://eccv2020.eu/author-instructions/ |
 | EMNLP      | **Y**     | **Y** | https://2020.emnlp.org/call-for-papers |
 | EuroSys    | **Y**     | **Y** | https://www.eurosys2020.org/call-for-papers/ |
 | FSE        | **Y**     | **Y** | https://2020.esec-fse.org/track/fse-2020-papers |
@@ -66,7 +67,6 @@ been verified directly with the program chair(s).
 |            |           |       |                                                         |
 | _pending verification of full double-blind status_ | | | |
 | CHI        | **Y**     |   ?   | https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/ |
-| ECCV       | **Y**     |   ?   | https://eccv2020.eu/author-instructions/ |
 | FAST       | **Y**     |   ?   | https://www.usenix.org/conference/fast20/call-for-papers |
 | NDSS       | **Y**     |   ?   | https://www.ndss-symposium.org/ndss2020/call-for-papers/ |
 |            |           |       |                                                         |
