@@ -47,7 +47,7 @@ been verified directly with the program chair(s).
 | ICML       | **Y**     | **Y** | https://icml.cc/Conferences/2020/CallForPapers |
 | ICSE       | **Y**     | **Y** | https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A |
 | IJCAI      | **Y**     | **Y** | https://ijcai20.org/call-for-papers.html |
-| ISCA       | **Y**     | **Y** | https://www.iscaconf.org/isca2020/submit/guidelines.html |
+| ISCA       | **Y**(*)  | **Y** | https://www.iscaconf.org/isca2020/submit/guidelines.html |
 | KDD        | **Y**     | **Y** | https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers |
 | MICRO      | **Y**     | **Y** | https://www.microarch.org/micro52/submit/guidelines.html |
 | MobiCom    | **Y**     | **Y** | https://sigmobile.org/mobicom/2020/ |
@@ -87,7 +87,7 @@ been verified directly with the program chair(s).
 | STOC       |           |       | http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf |
 | VLDB       |           |       | https://vldb2020.org/submission-guidelines.html |
 
-(*): CHI's process has a single meta-reviewer who knows the identities of all authors.
+(*): CHI's process has a single meta-reviewer who knows the identities of all authors. ISCA 2020's industrial track (not research track) papers are single-blind.
 
 ## Resources related to double-blind reviewing
 
