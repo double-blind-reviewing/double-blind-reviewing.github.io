@@ -31,6 +31,7 @@ with the program chair(s).
 | ASPLOS     | **Y**     | **Y** | https://asplos-conference.org/submissions/ |
 | CAV        | **Y**     | **Y** | http://i-cav.org/2020/call-for-papers/ |
 | CCS        | **Y**     | **Y** | https://www.sigsac.org/ccs/CCS2020/call-for-papers.html |
+| CVPR       | **Y**     | **Y** | http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers |
 | EuroSys    | **Y**     | **Y** | https://www.eurosys2020.org/call-for-papers/ |
 | FSE        | **Y**     | **Y** | https://2020.esec-fse.org/track/fse-2020-papers |
 | ICML       | **Y**     | **Y** | https://icml.cc/Conferences/2020/CallForPapers |
