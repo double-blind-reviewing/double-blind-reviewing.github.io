@@ -84,6 +84,7 @@ been verified directly with the program chair(s).
 | [PODS](https://sigmod2020.org/calls_papers_pods_research.shtml)       |           |       |
 | [SODA](https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines)       |           |       |
 | [STOC](http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf)       |           |       |
+| [VIS](http://ieeevis.org/year/2020/info/call-participation/paper-submission-guidelines#anonymization) | | |
 | [VLDB](https://vldb2020.org/submission-guidelines.html)       |           |       |
 
 (*): CHI's process has a single meta-reviewer who knows the identities of all authors. ISCA 2020's industrial track (not research track) papers are single-blind.
