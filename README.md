@@ -42,6 +42,7 @@ been verified directly with the program chair(s).
 | ECCV       | **Y**     | **Y** | https://eccv2020.eu/author-instructions/ |
 | EMNLP      | **Y**     | **Y** | https://2020.emnlp.org/call-for-papers |
 | EuroSys    | **Y**     | **Y** | https://www.eurosys2020.org/call-for-papers/ |
+| FAST       | **Y**     | **Y** | https://www.usenix.org/conference/fast20/call-for-papers |
 | FSE        | **Y**     | **Y** | https://2020.esec-fse.org/track/fse-2020-papers |
 | HPCA       | **Y**     | **Y** | https://www.hpca-conf.org/2020/calls/ |
 | ICML       | **Y**     | **Y** | https://icml.cc/Conferences/2020/CallForPapers |
@@ -66,9 +67,6 @@ been verified directly with the program chair(s).
 | USENIX ATC | **Y**     | **Y** | https://www.usenix.org/conference/atc20/call-for-papers |
 | USENIX Security | **Y**     | **Y** | https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf |
 | WWW        | **Y**     | **Y** | https://www2020.thewebconf.org/call-for-contributions#instructions |
-|            |           |       |                                                         |
-| _pending verification of full double-blind status_ | | | |
-| FAST       | **Y**     |   ?   | https://www.usenix.org/conference/fast20/call-for-papers |
 |            |           |       |                                                         |
 | _partially double-blind conferences_ | | | |
 | ICFP       | **Y**     |       | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
