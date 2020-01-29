@@ -88,7 +88,7 @@ been verified directly with the program chair(s).
 | [VLDB](https://vldb2020.org/submission-guidelines.html)       |           |       |
 
   * (*): ISCA 2020's industrial track (not research track) papers are single-blind.
-  * (**): CHI has a single meta-reviewer who knows the identities of all authors.
+  * (**): CHI's research paper track has a single meta-reviewer who knows the identities of all authors.
 
 ## Resources related to double-blind reviewing
 
