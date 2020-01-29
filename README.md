@@ -29,8 +29,6 @@ modifications due to shepherding).
   review process. When appropriate, there is a link to the CFP or other
   relevant document.
 
-* _arXiv restricted_ means that posts to preprint servers (like arXiv) are restricted for at least a limited period before and during the review process.
-
 Each conference is linked to its call for papers (CFP) or similar.
 In cases where the CFP does not explicitly state the use of blind
 reviewing (or whether it is fully double-blind or not), this status has
