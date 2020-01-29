@@ -8,85 +8,93 @@ please post an issue or pull request [on its GitHub repository](https://github.c
 
 For the purposes of this document:
 
-* _Single-blind_ means that author identities and affiliations are visible
-to reviewers at all points during the reviewing process, while reviewer identities
-are hidden from authors.
+* _Single-blind_ means that author identities and affiliations are
+visible to reviewers at all points during the reviewing process, while
+reviewer identities are hidden from authors.
 
 * _At least partially double-blind_ means that author identities and
-affiliations are not revealed to reviewers for papers prior to the submission of
-_initial_ paper reviews, and reviewer identities are hidden from authors.
+affiliations are not revealed to reviewers for papers prior to the
+submission of _initial_ paper reviews, and reviewer identities are
+hidden from authors.
 
 * _Fully double-blind_ means that "double-blind to accept" is
-employed. That is, author identities and affiliations are not
-revealed to reviewers until the conclusion of the PC meeting, and
-only for accepted papers (including conditionally-accepted papers,
-pending modifications due to shepherding).
+employed. That is, author identities and affiliations are not revealed
+to reviewers until the conclusion of the PC meeting, and only for
+accepted papers (including conditionally-accepted papers, pending
+modifications due to shepherding).
+
+* _arXiv restricted_ means that submissions to
+  [arXiv](https://arxiv.org/) or other pre-print servers are
+  restricted for at least a limited period before and during the
+  review process. When appropriate, there is a link to the CFP or other
+  relevant document.
 
 Each conference is linked to its call for papers (CFP) or similar.
 In cases where the CFP does not explicitly state the use of blind
 reviewing (or whether it is fully double-blind or not), this status has
 been verified directly with the program chair(s).
 
-| Conference | At least partially double-blind? | Fully double-blind (blind to accept)? |
-| :--        | :--:      | :--:    |
-|            |           |         |
+| Conference | At least partially double-blind? | Fully double-blind (blind to accept)? | arXiv restricted? |
+| :--        | :--:      | :--:    | :--: |
+|            |           |         |      |
 | _fully double-blind conferences_ |
-| [AAAI](https://aaai.org/Conferences/AAAI-20/aaai20call/)       | **Y**     | **Y** |
-| [ACL](https://acl2020.org/calls/papers/)        | **Y**     | **Y** |
-| [ASE](https://conf.researchr.org/track/ase-2020/ase-2020-papers)        | **Y**     | **Y** |
-| [ASPLOS](https://asplos-conference.org/submissions/)     | **Y**     | **Y** |
-| [CAV](http://i-cav.org/2020/call-for-papers/)        | **Y**     | **Y** |
-| [CCS](https://www.sigsac.org/ccs/CCS2020/call-for-papers.html)        | **Y**     | **Y** |
-| [CRYPTO](https://crypto.iacr.org/2020/callforpapers.html)     | **Y**     | **Y** |
-| [CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers)       | **Y**     | **Y** |
-| [ECCV](https://eccv2020.eu/author-instructions/)       | **Y**     | **Y** |
-| [EMNLP](https://2020.emnlp.org/call-for-papers)      | **Y**     | **Y** |
-| [EuroCrypt](https://eurocrypt.iacr.org/2020/callforpapers.html)      | **Y**     | **Y** |
-| [EuroSys](https://www.eurosys2020.org/call-for-papers/)    | **Y**     | **Y** |
-| [FAST](https://www.usenix.org/conference/fast20/call-for-papers)       | **Y**     | **Y** |
-| [FSE](https://2020.esec-fse.org/track/fse-2020-papers)        | **Y**     | **Y** |
-| [HPCA](https://www.hpca-conf.org/2020/calls/)       | **Y**     | **Y** |
-| [ICML](https://icml.cc/Conferences/2020/CallForPapers)       | **Y**     | **Y** |
-| [ICSE](https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A)       | **Y**     | **Y** |
-| [IJCAI](https://ijcai20.org/call-for-papers.html)      | **Y**     | **Y** |
-| [ISCA](https://www.iscaconf.org/isca2020/submit/guidelines.html)       | **Y**(*)  | **Y** |
-| [KDD](https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers)        | **Y**     | **Y** |
-| [MICRO](https://www.microarch.org/micro52/submit/guidelines.html)      | **Y**     | **Y** |
-| [MobiCom](https://sigmobile.org/mobicom/2020/)    | **Y**     | **Y** |
-| [NDSS](https://www.ndss-symposium.org/ndss2020/call-for-papers/)       | **Y**     | **Y** |
-| [NeurIPS](https://nips.cc/Conferences/2019/CallForPapers)    | **Y**     | **Y** |
-| [NSDI](https://www.usenix.org/conference/nsdi20/call-for-papers)       | **Y**     | **Y** |
-| [Oakland (IEEE S&P)](https://www.ieee-security.org/TC/SP2020/cfpapers.html)     | **Y** | **Y** |
-| [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers)     | **Y**     | **Y** |
-| [OSDI](https://www.usenix.org/conference/osdi20/call-for-papers)       | **Y**     | **Y** |
-| [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing)       | **Y**     | **Y** | 
-| [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2020/submission.html) | **Y**     | **Y** |
-| [SIGGRAPH](https://s2020.siggraph.org/submissions/technical-papers-submissions/technical-papers-submissions-faq/)   | **Y**     | **Y** | 
-| [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html) | **Y**     | **Y** |
-| [SIGMOD](https://sigmod2020.org/calls_papers_sigmod_research.shtml)     | **Y**     | **Y** |
-| [SOSP](https://sosp19.rcs.uwaterloo.ca/cfp.html)       | **Y**     | **Y** |
-| [USENIX ATC](https://www.usenix.org/conference/atc20/call-for-papers ) | **Y**     | **Y** |
-| [USENIX Security](https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf) | **Y**     | **Y** |
-| [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y**     | **Y** |
+| [AAAI](https://aaai.org/Conferences/AAAI-20/aaai20call/)       | **Y**     | **Y** |  |
+| [ACL](https://acl2020.org/calls/papers/)        | **Y**     | **Y** | [**Y**](https://acl2020.org/calls/papers/#important-anonymity-period) |
+| [ASE](https://conf.researchr.org/track/ase-2020/ase-2020-papers)        | **Y**     | **Y** | |
+| [ASPLOS](https://asplos-conference.org/submissions/)     | **Y**     | **Y** | |
+| [CAV](http://i-cav.org/2020/call-for-papers/)        | **Y**     | **Y** | |
+| [CCS](https://www.sigsac.org/ccs/CCS2020/call-for-papers.html)        | **Y**     | **Y** | |
+| [CRYPTO](https://crypto.iacr.org/2020/callforpapers.html)     | **Y**     | **Y** | |
+| [CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers)       | **Y**     | **Y** | |
+| [ECCV](https://eccv2020.eu/author-instructions/)       | **Y**     | **Y** | |
+| [EMNLP](https://2020.emnlp.org/call-for-papers)      | **Y**     | **Y** | [**Y**](https://www.emnlp-ijcnlp2019.org/calls/papers) |
+| [EuroCrypt](https://eurocrypt.iacr.org/2020/callforpapers.html)      | **Y**     | **Y** |  |
+| [EuroSys](https://www.eurosys2020.org/call-for-papers/)    | **Y**     | **Y** |  |
+| [FAST](https://www.usenix.org/conference/fast20/call-for-papers)       | **Y**     | **Y** |  |
+| [FSE](https://2020.esec-fse.org/track/fse-2020-papers)        | **Y**     | **Y** |  |
+| [HPCA](https://www.hpca-conf.org/2020/calls/)       | **Y**     | **Y** |  |
+| [ICML](https://icml.cc/Conferences/2020/CallForPapers)       | **Y**     | **Y** |   |
+| [ICSE](https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A)       | **Y**     | **Y** |  |
+| [IJCAI](https://ijcai20.org/call-for-papers.html)      | **Y**     | **Y** |  |
+| [ISCA](https://www.iscaconf.org/isca2020/submit/guidelines.html)       | **Y**(*)  | **Y** |  |
+| [KDD](https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers)        | **Y**     | **Y** | [**?**](https://www.kdd.org/kdd2019/News/view/an-update-on-the-double-blind-review-process-for-kdd-2019) _pending confirmation_  |
+| [MICRO](https://www.microarch.org/micro52/submit/guidelines.html)      | **Y**     | **Y** |  |
+| [MobiCom](https://sigmobile.org/mobicom/2020/)    | **Y**     | **Y** |  |
+| [NDSS](https://www.ndss-symposium.org/ndss2020/call-for-papers/)       | **Y**     | **Y** |  |
+| [NeurIPS](https://nips.cc/Conferences/2019/CallForPapers)    | **Y**     | **Y** |  |
+| [NSDI](https://www.usenix.org/conference/nsdi20/call-for-papers)       | **Y**     | **Y** |  |
+| [Oakland (IEEE S&P)](https://www.ieee-security.org/TC/SP2020/cfpapers.html)     | **Y** | **Y** |  |
+| [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers)     | **Y**     | **Y** |  |
+| [OSDI](https://www.usenix.org/conference/osdi20/call-for-papers)       | **Y**     | **Y** |  |
+| [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing)       | **Y**     | **Y** |   |
+| [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2020/submission.html) | **Y**     | **Y** |  |
+| [SIGGRAPH](https://s2020.siggraph.org/submissions/technical-papers-submissions/technical-papers-submissions-faq/)   | **Y**     | **Y** |   |
+| [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html) | **Y**     | **Y** |  |
+| [SIGMOD](https://sigmod2020.org/calls_papers_sigmod_research.shtml)     | **Y**     | **Y** |  |
+| [SOSP](https://sosp19.rcs.uwaterloo.ca/cfp.html)       | **Y**     | **Y** |  |
+| [USENIX ATC](https://www.usenix.org/conference/atc20/call-for-papers ) | **Y**     | **Y** |  |
+| [USENIX Security](https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf) | **Y**     | **Y** |  |
+| [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y**     | **Y** | [**Y**](https://www2020.thewebconf.org/call-for-contributions) |
+|            |           |       |  |
+| _partially double-blind conferences_ |
+| [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**(**)  | |  |
+| [ICFP](https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers)       | **Y**     |       |  |
+| [ISSTA]( https://conf.researchr.org/track/issta-2020/issta-2020-papers#Double-Blind-Reviewing)      | **Y**     | |
+
+| [LICS](https://lics.siglog.org/lics20/cfp.php)       | **Y**     |       |  |
+| [MobiSys](https://www.sigmobile.org/mobisys/2020/cfp/)    | **Y**     |       |  |
+| [POPL](https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers)       | **Y**     |       |  |
 |            |           |       |
-| _partially double-blind conferences_ | | |
-| [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**(**)  | |
-| [ICFP](https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers)       | **Y**     |       |
-| [ISSTA]( https://conf.researchr.org/track/issta-2020/issta-2020-papers#Double-Blind-Reviewing)      | **Y**     |       |
-| [LICS](https://lics.siglog.org/lics20/cfp.php)       | **Y**     |       |
-| [MobiSys](https://www.sigmobile.org/mobisys/2020/cfp/)    | **Y**     |       |
-| [POPL](https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers)       | **Y**     |       |
-|            |           |       |
-| _single-blind conferences_ | | |
-| [FOCS](http://focs2019.cs.jhu.edu/cfp/)       |           |       |
-| [ICDE](https://www.utdallas.edu/icde/call.html)       |           |       |
-| [ICRA](https://www.icra2020.org/call-for-papers)       |           |       |
-| [IROS](http://www.iros2020.org/2submission/CallforPapers.html)       |           |       |
-| [PODS](https://sigmod2020.org/calls_papers_pods_research.shtml)       |           |       |
-| [SODA](https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines)       |           |       |
-| [STOC](http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf)       |           |       |
-| [VIS](http://ieeevis.org/year/2020/info/call-participation/paper-submission-guidelines#anonymization) | | |
-| [VLDB](https://vldb2020.org/submission-guidelines.html)       |           |       |
+| _single-blind conferences_ |
+| [FOCS](http://focs2019.cs.jhu.edu/cfp/)       |           |       | |
+| [ICDE](https://www.utdallas.edu/icde/call.html)       |           |       |  |
+| [ICRA](https://www.icra2020.org/call-for-papers)       |           |       |  |
+| [IROS](http://www.iros2020.org/2submission/CallforPapers.html)       |           |       |  |
+| [PODS](https://sigmod2020.org/calls_papers_pods_research.shtml)       |           |       |  |
+| [SODA](https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines)       |           |       |  |
+| [STOC](http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf)       |           |       |  |
+| [VIS](http://ieeevis.org/year/2020/info/call-participation/paper-submission-guidelines#anonymization) | | |  |
+| [VLDB](https://vldb2020.org/submission-guidelines.html)       |           |       |  |
 
   * (*): ISCA 2020's industrial track (not research track) papers are single-blind.
   * (**): CHI's research paper track has a single meta-reviewer who knows the identities of all authors.
