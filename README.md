@@ -39,7 +39,7 @@ been verified directly with the program chair(s).
 |            |           |         |         |
 | _fully double-blind conferences_ |         |
 | [AAAI](https://aaai.org/Conferences/AAAI-20/aaai20call/)       | **Y**     | **Y** |       |
-| [ACL](https://acl2020.org/calls/papers/)        | **Y**     | **Y** | **Y** |
+| [ACL](https://acl2020.org/calls/papers/)        | **Y**     | **Y** | [**Y**](https://acl2020.org/calls/papers/#important-anonymity-period) |
 | [ASE](https://conf.researchr.org/track/ase-2020/ase-2020-papers)        | **Y**     | **Y** | **N**(1) |
 | [ASPLOS](https://asplos-conference.org/submissions/)     | **Y**     | **Y** | **N** |
 | [CAV](http://i-cav.org/2020/call-for-papers/)        | **Y**     | **Y** | **N**(2) |
@@ -47,7 +47,7 @@ been verified directly with the program chair(s).
 | [CRYPTO](https://crypto.iacr.org/2020/callforpapers.html)     | **Y**     | **Y** |
 | [CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers)       | **Y**     | **Y** |  **N** |
 | [ECCV](https://eccv2020.eu/author-instructions/)       | **Y**     | **Y** |  **N** |
-| [EMNLP](https://2020.emnlp.org/call-for-papers)      | **Y**     | **Y** | **Y** |
+| [EMNLP](https://2020.emnlp.org/call-for-papers)      | **Y**     | **Y** | [**Y**](https://www.emnlp-ijcnlp2019.org/calls/papers) |
 | [EuroCrypt](https://eurocrypt.iacr.org/2020/callforpapers.html)      | **Y**     | **Y** |       |
 | [EuroSys](https://www.eurosys2020.org/call-for-papers/)    | **Y**     | **Y** |       |
 | [FAST](https://www.usenix.org/conference/fast20/call-for-papers)       | **Y**     | **Y** |       |
@@ -97,7 +97,7 @@ been verified directly with the program chair(s).
 
   * (*): ISCA 2020's industrial track (not research track) papers are single-blind.
   * (**): CHI's research paper track has a single meta-reviewer who knows the identities of all authors.
-  * (1): Authors are discouraged from posting the submitted work on arXiv or a similar site immediately before or after submitting to the conference. [Link](https://conf.researchr.org/track/ase-2020/ase-2020-papers#FAQs-on-Double-Blind)
+  * (1): Authors are discouraged from posting the submitted work on arXiv or a similar site immediately before or after submitting to the conference. [(Link)](https://conf.researchr.org/track/ase-2020/ase-2020-papers#FAQs-on-Double-Blind)
   * (2): "We do not discourage authors to put their submission on arXiv, but we strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers."
   * (3): "You are allowed to put your submission on your home page"
   * (4): Information about arXiv submission  must be provided on the submission form – the PC chair will make this information available to reviewers if it becomes necessary to ensure a fair review.
