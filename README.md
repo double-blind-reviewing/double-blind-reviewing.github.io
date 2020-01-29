@@ -80,7 +80,6 @@ been verified directly with the program chair(s).
 | [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**(**)  | |  |
 | [ICFP](https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers)       | **Y**     |       |  |
 | [ISSTA]( https://conf.researchr.org/track/issta-2020/issta-2020-papers#Double-Blind-Reviewing)      | **Y**     | | |
-
 | [LICS](https://lics.siglog.org/lics20/cfp.php)       | **Y**     |       |  | |
 | [MobiSys](https://www.sigmobile.org/mobisys/2020/cfp/)    | **Y**     |       |  |  |
 | [POPL](https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers)       | **Y**     |       |  |  |
