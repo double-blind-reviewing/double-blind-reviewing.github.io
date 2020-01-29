@@ -79,22 +79,22 @@ been verified directly with the program chair(s).
 | _partially double-blind conferences_ |
 | [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**(**)  | |  |
 | [ICFP](https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers)       | **Y**     |       |  |
-| [ISSTA]( https://conf.researchr.org/track/issta-2020/issta-2020-papers#Double-Blind-Reviewing)      | **Y**     | |
+| [ISSTA]( https://conf.researchr.org/track/issta-2020/issta-2020-papers#Double-Blind-Reviewing)      | **Y**     | | |
 
-| [LICS](https://lics.siglog.org/lics20/cfp.php)       | **Y**     |       |  |
-| [MobiSys](https://www.sigmobile.org/mobisys/2020/cfp/)    | **Y**     |       |  |
-| [POPL](https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers)       | **Y**     |       |  |
-|            |           |       |
+| [LICS](https://lics.siglog.org/lics20/cfp.php)       | **Y**     |       |  | |
+| [MobiSys](https://www.sigmobile.org/mobisys/2020/cfp/)    | **Y**     |       |  |  |
+| [POPL](https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers)       | **Y**     |       |  |  |
+|            |           |       |  |
 | _single-blind conferences_ |
-| [FOCS](http://focs2019.cs.jhu.edu/cfp/)       |           |       | |
-| [ICDE](https://www.utdallas.edu/icde/call.html)       |           |       |  |
-| [ICRA](https://www.icra2020.org/call-for-papers)       |           |       |  |
-| [IROS](http://www.iros2020.org/2submission/CallforPapers.html)       |           |       |  |
-| [PODS](https://sigmod2020.org/calls_papers_pods_research.shtml)       |           |       |  |
-| [SODA](https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines)       |           |       |  |
-| [STOC](http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf)       |           |       |  |
-| [VIS](http://ieeevis.org/year/2020/info/call-participation/paper-submission-guidelines#anonymization) | | |  |
-| [VLDB](https://vldb2020.org/submission-guidelines.html)       |           |       |  |
+| [FOCS](http://focs2019.cs.jhu.edu/cfp/)       |           |       | | |
+| [ICDE](https://www.utdallas.edu/icde/call.html)       |           |       |  |  |
+| [ICRA](https://www.icra2020.org/call-for-papers)       |           |       |  |  |
+| [IROS](http://www.iros2020.org/2submission/CallforPapers.html)       |           |       |  |  |
+| [PODS](https://sigmod2020.org/calls_papers_pods_research.shtml)       |           |       |  |  |
+| [SODA](https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines)       |           |       |  |  |
+| [STOC](http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf)       |           |       |  |  |
+| [VIS](http://ieeevis.org/year/2020/info/call-participation/paper-submission-guidelines#anonymization) | | |  | |
+| [VLDB](https://vldb2020.org/submission-guidelines.html)       |           |       |  |  |
 
   * (*): ISCA 2020's industrial track (not research track) papers are single-blind.
   * (**): CHI's research paper track has a single meta-reviewer who knows the identities of all authors.
