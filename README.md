@@ -37,7 +37,6 @@ been verified directly with the program chair(s).
 | [ASPLOS](https://asplos-conference.org/submissions/)     | **Y**     | **Y** |
 | [CAV](http://i-cav.org/2020/call-for-papers/)        | **Y**     | **Y** |
 | [CCS](https://www.sigsac.org/ccs/CCS2020/call-for-papers.html)        | **Y**     | **Y** |
-| [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**(*)  | **Y** |
 | [CRYPTO](https://crypto.iacr.org/2020/callforpapers.html)     | **Y**     | **Y** |
 | [CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers)       | **Y**     | **Y** |
 | [ECCV](https://eccv2020.eu/author-instructions/)       | **Y**     | **Y** |
@@ -70,6 +69,7 @@ been verified directly with the program chair(s).
 | [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y**     | **Y** |
 |            |           |       |
 | _partially double-blind conferences_ | | |
+| [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**(**)  | |
 | [ICFP](https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers)       | **Y**     |       |
 | [ISSTA]( https://conf.researchr.org/track/issta-2020/issta-2020-papers#Double-Blind-Reviewing)      | **Y**     |       |
 | [LICS](https://lics.siglog.org/lics20/cfp.php)       | **Y**     |       |
@@ -87,7 +87,8 @@ been verified directly with the program chair(s).
 | [VIS](http://ieeevis.org/year/2020/info/call-participation/paper-submission-guidelines#anonymization) | | |
 | [VLDB](https://vldb2020.org/submission-guidelines.html)       |           |       |
 
-(*): CHI's process has a single meta-reviewer who knows the identities of all authors. ISCA 2020's industrial track (not research track) papers are single-blind.
+(*): ISCA 2020's industrial track (not research track) papers are single-blind.
+(**): CHI has a single meta-reviewer who knows the identities of all authors.
 
 ## Resources related to double-blind reviewing
 
