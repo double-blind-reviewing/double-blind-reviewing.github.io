@@ -51,6 +51,7 @@ been verified directly with the program chair(s).
 | KDD        | **Y**     | **Y** | https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers |
 | MICRO      | **Y**     | **Y** | https://www.microarch.org/micro52/submit/guidelines.html |
 | MobiCom    | **Y**     | **Y** | https://sigmobile.org/mobicom/2020/ |
+| NDSS       | **Y**     | **Y** | https://www.ndss-symposium.org/ndss2020/call-for-papers/ |
 | NeurIPS    | **Y**     | **Y** | https://nips.cc/Conferences/2019/CallForPapers |
 | NSDI       | **Y**     | **Y** | https://www.usenix.org/conference/nsdi20/call-for-papers |
 | Oakland (IEEE S&P)     | **Y** | **Y** | https://www.ieee-security.org/TC/SP2020/cfpapers.html |
@@ -68,7 +69,6 @@ been verified directly with the program chair(s).
 |            |           |       |                                                         |
 | _pending verification of full double-blind status_ | | | |
 | FAST       | **Y**     |   ?   | https://www.usenix.org/conference/fast20/call-for-papers |
-| NDSS       | **Y**     |   ?   | https://www.ndss-symposium.org/ndss2020/call-for-papers/ |
 |            |           |       |                                                         |
 | _partially double-blind conferences_ | | | |
 | ICFP       | **Y**     |       | https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers |
