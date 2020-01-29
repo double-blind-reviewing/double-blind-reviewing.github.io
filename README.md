@@ -41,6 +41,7 @@ been verified directly with the program chair(s).
 | [CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers)       | **Y**     | **Y** |
 | [ECCV](https://eccv2020.eu/author-instructions/)       | **Y**     | **Y** |
 | [EMNLP](https://2020.emnlp.org/call-for-papers)      | **Y**     | **Y** |
+| [EuroCrypt](https://eurocrypt.iacr.org/2020/callforpapers.html)      | **Y**     | **Y** |
 | [EuroSys](https://www.eurosys2020.org/call-for-papers/)    | **Y**     | **Y** |
 | [FAST](https://www.usenix.org/conference/fast20/call-for-papers)       | **Y**     | **Y** |
 | [FSE](https://2020.esec-fse.org/track/fse-2020-papers)        | **Y**     | **Y** |
