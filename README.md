@@ -69,6 +69,7 @@ been verified directly with the program chair(s).
 | [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing)       | **Y**     | **Y** | **N** |
 | [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2020/submission.html) | **Y**     | **Y** | **N** |
 | [SIGGRAPH](https://s2020.siggraph.org/submissions/technical-papers-submissions/technical-papers-submissions-faq/)   | **Y**     | **Y** | **N** |
+| [SIGGRAPH Asia](https://sa2019.siggraph.org/submissions/technical-papers)   | **Y**     | **Y** | **N** |
 | [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html) | **Y**     | **Y** | **N** |
 | [SIGMOD](https://sigmod2020.org/calls_papers_sigmod_research.shtml)     | **Y**     | **Y** |       |
 | [SOSP](https://sosp19.rcs.uwaterloo.ca/cfp.html)       | **Y**     | **Y** |       |
