@@ -99,7 +99,7 @@ been verified directly with the program chair(s).
   * (**): CHI's research paper track has a single meta-reviewer who knows the identities of all authors.
   * (1): Authors are discouraged from posting the submitted work on arXiv or a similar site immediately before or after submitting to the conference.
   * (2): "We do not discourage authors to put their submission on arXiv, but we strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers."
-  * (3): "You are allowed to put your submission on your home page"
+  * (3): "You should not [...] post your work on ArXiV or a similar site just before or after submitting to the conference."
   * (4): Information about arXiv submission  must be provided on the submission form – the PC chair will make this information available to reviewers if it becomes necessary to ensure a fair review.
   * (5): "You may post to mailing lists, arxiv, social media, or another publicity channel about your work, but do not mention where the paper is submitted and do not use the exact, as-submitted title in the posting."
   * (6): "If available online (e.g., via arXiv) and not anonymous, their titles and abstract must be sufficiently different from the submission"
