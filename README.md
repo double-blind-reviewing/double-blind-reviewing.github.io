@@ -80,6 +80,7 @@ been verified directly with the program chair(s).
 |            |           |       |
 | _partially double-blind conferences_ | | |
 | [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**(**)  | | **N** |
+| [ECOOP](https://2020.ecoop.org/track/ecoop-2020-papers#anonymity)  | **Y** | | **N** |
 | [ICFP](https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers)       | **Y**     |       |       |
 | [ISSTA](https://conf.researchr.org/track/issta-2020/issta-2020-papers#Double-Blind-Reviewing)      | **Y**     |       | **N** |
 | [LICS](https://lics.siglog.org/lics20/cfp.php)       | **Y**     |       | **N** |
