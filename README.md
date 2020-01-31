@@ -62,7 +62,7 @@ been verified directly with the program chair(s).
 | [MobiCom](https://sigmobile.org/mobicom/2020/)    | **Y**     | **Y** |       |
 | [NDSS](https://www.ndss-symposium.org/ndss2020/call-for-papers/)       | **Y**     | **Y** |       |
 | [NeurIPS](https://nips.cc/Conferences/2019/CallForPapers)    | **Y**     | **Y** | **N** |
-| [NSDI](https://www.usenix.org/conference/nsdi20/call-for-papers)       | **Y**     | **Y** |       |
+| [NSDI](https://www.usenix.org/conference/nsdi20/call-for-papers)       | **Y**     | **Y** | **N**  |
 | [Oakland (IEEE S&P)](https://www.ieee-security.org/TC/SP2020/cfpapers.html)     | **Y** | **Y** | **N** |
 | [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers)     | **Y**     | **Y** | **N**(5) |
 | [OSDI](https://www.usenix.org/conference/osdi20/call-for-papers)       | **Y**     | **Y** |       |
