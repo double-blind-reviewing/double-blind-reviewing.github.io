@@ -67,6 +67,7 @@ been verified directly with the program chair(s).
 | [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers)     | **Y**     | **Y** | **N**(5) |
 | [OSDI](https://www.usenix.org/conference/osdi20/call-for-papers)       | **Y**     | **Y** |       |
 | [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing)       | **Y**     | **Y** | **N** |
+| [SenSys](http://sensys.acm.org/2020/cfp/) | **Y** | **Y** |       |
 | [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2020/submission.html) | **Y**     | **Y** | **N** |
 | [SIGGRAPH](https://s2020.siggraph.org/submissions/technical-papers-submissions/technical-papers-submissions-faq/)   | **Y**     | **Y** | **N** |
 | [SIGGRAPH Asia](https://sa2019.siggraph.org/submissions/technical-papers)   | **Y**     | **Y** | **N** |
