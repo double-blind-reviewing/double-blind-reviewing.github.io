@@ -71,12 +71,13 @@ been verified directly with the program chair(s).
 | [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2020/submission.html) | **Y**     | **Y** | **N** |
 | [SIGGRAPH](https://s2020.siggraph.org/submissions/technical-papers-submissions/technical-papers-submissions-faq/)   | **Y**     | **Y** | **N** |
 | [SIGGRAPH Asia](https://sa2019.siggraph.org/submissions/technical-papers)   | **Y**     | **Y** | **N** |
+| [SIGIR](https://sigir.org/sigir2020/call-for-full-papers/)   | **Y**     | **Y** | **N**(6) |
 | [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html) | **Y**     | **Y** | **N** |
 | [SIGMOD](https://sigmod2020.org/calls_papers_sigmod_research.shtml)     | **Y**     | **Y** |       |
 | [SOSP](https://sosp19.rcs.uwaterloo.ca/cfp.html)       | **Y**     | **Y** |       |
 | [USENIX ATC](https://www.usenix.org/conference/atc20/call-for-papers) | **Y**     | **Y** | **N** |
 | [USENIX Security](https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf) | **Y**     | **Y** | **N** |
-| [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y**     | **Y** | **N**(6) |
+| [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y**     | **Y** | **N**(7) |
 |            |           |       |
 | _partially double-blind conferences_ | | |
 | [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**(**)  | | **N** |
@@ -105,7 +106,8 @@ been verified directly with the program chair(s).
   * (3): "You should not [...] post your work on ArXiV or a similar site just before or after submitting to the conference."
   * (4): Information about arXiv submission  must be provided on the submission form – the PC chair will make this information available to reviewers if it becomes necessary to ensure a fair review.
   * (5): "You may post to mailing lists, arxiv, social media, or another publicity channel about your work, but do not mention where the paper is submitted and do not use the exact, as-submitted title in the posting."
-  * (6): "If available online (e.g., via arXiv) and not anonymous, their titles and abstract must be sufficiently different from the submission"
+  * (6): "While authors can upload to institutional or other preprint repositories such as arXiv.org before reviewing is complete, we generally discourage this since it places anonymity at risk (which could result in a negative outcome of the reviewing process)."
+  * (7): "If available online (e.g., via arXiv) and not anonymous, their titles and abstract must be sufficiently different from the submission"
 
 ## Resources related to double-blind reviewing
 
