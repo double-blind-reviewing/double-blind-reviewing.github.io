@@ -79,6 +79,7 @@ been verified directly with the program chair(s).
 |            |           |       |
 | _partially double-blind conferences_ | | |
 | [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**(**)  | | **N** |
+| [UIST](https://uist.acm.org/uist2019/author-guide/index.html#ano)        | **Y**(**)  | | **N** |
 | [ICFP](https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers)       | **Y**     |       |       |
 | [ISSTA](https://conf.researchr.org/track/issta-2020/issta-2020-papers#Double-Blind-Reviewing)      | **Y**     |       | **N** |
 | [LICS](https://lics.siglog.org/lics20/cfp.php)       | **Y**     |       | **N** |
@@ -97,7 +98,7 @@ been verified directly with the program chair(s).
 | [VLDB](https://vldb2020.org/submission-guidelines.html)       |           |       |       |
 
   * (*): ISCA 2020's industrial track (not research track) papers are single-blind.
-  * (**): CHI's research paper track has a single meta-reviewer who knows the identities of all authors.
+  * (**): CHI and UIST's research paper tracks have one or more meta-reviewers who know the identities of all authors.
   * (1): Authors are discouraged from posting the submitted work on arXiv or a similar site immediately before or after submitting to the conference.
   * (2): "We do not discourage authors to put their submission on arXiv, but we strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers."
   * (3): "You should not [...] post your work on ArXiV or a similar site just before or after submitting to the conference."
