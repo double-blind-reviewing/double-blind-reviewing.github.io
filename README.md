@@ -24,7 +24,7 @@ accepted papers (including conditionally-accepted papers, pending
 modifications due to shepherding).
 
 * _arXiv restricted_ means that submissions to
-  [arXiv](https://arxiv.org/) or other pre-print servers are
+  [arXiv](https://arxiv.org/) _or other pre-print servers_ are
   restricted for at least a limited period before and during the
   review process. When appropriate, there is a link to the CFP or other
   relevant document.
@@ -95,7 +95,7 @@ been verified directly with the program chair(s).
 | [IROS](http://www.iros2020.org/2submission/CallforPapers.html)       |           |       |       |
 | [PODS](https://sigmod2020.org/calls_papers_pods_research.shtml)       |           |       |       |
 | [SODA](https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines)       |           |       |       |
-| [STOC](http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf)       |           |       |       |
+| [STOC](http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf)       |           |       | **N**   |
 | [VIS](http://ieeevis.org/year/2020/info/call-participation/paper-submission-guidelines#anonymization) | | |       |
 | [VLDB](https://vldb2020.org/submission-guidelines.html)       |           |       |       |
 
