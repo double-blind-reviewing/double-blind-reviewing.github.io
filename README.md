@@ -44,11 +44,11 @@ been verified directly with the program chair(s).
 | [ASPLOS](https://asplos-conference.org/submissions/)     | **Y**     | **Y** | **N** |
 | [CAV](http://i-cav.org/2020/call-for-papers/)        | **Y**     | **Y** | **N**(2) |
 | [CCS](https://www.sigsac.org/ccs/CCS2020/call-for-papers.html)        | **Y**     | **Y** |       |
-| [CRYPTO](https://crypto.iacr.org/2020/callforpapers.html)     | **Y**     | **Y** |
+| [CRYPTO](https://crypto.iacr.org/2020/callforpapers.html)     | **Y**     | **Y** | **N** |
 | [CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers)       | **Y**     | **Y** |  **N** |
 | [ECCV](https://eccv2020.eu/author-instructions/)       | **Y**     | **Y** |  **N** |
 | [EMNLP](https://2020.emnlp.org/call-for-papers)      | **Y**     | **Y** | [**Y**](https://www.emnlp-ijcnlp2019.org/calls/papers) |
-| [EuroCrypt](https://eurocrypt.iacr.org/2020/callforpapers.html)      | **Y**     | **Y** |       |
+| [EuroCrypt](https://eurocrypt.iacr.org/2020/callforpapers.html)      | **Y**     | **Y** | **N**  |
 | [EuroSys](https://www.eurosys2020.org/call-for-papers/)    | **Y**     | **Y** |       |
 | [FAST](https://www.usenix.org/conference/fast20/call-for-papers)       | **Y**     | **Y** |       |
 | [FSE](https://2020.esec-fse.org/track/fse-2020-papers)        | **Y**     | **Y** |  **N** |
