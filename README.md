@@ -1,4 +1,4 @@
-# Double-blind reviewing status of computer science conferences
+# double-blind.org: double-blind reviewing status of computer science conferences
 
 This document tracks the status of major computer science conferences
 (currently defined as those listed in [CSrankings](http://csrankings.org)) with
