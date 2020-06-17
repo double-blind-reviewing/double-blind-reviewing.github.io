@@ -93,7 +93,7 @@ been verified directly with the program chair(s).
 | [ICDE](https://www.utdallas.edu/icde/call.html)       |           |       |       |
 | [ICRA](https://www.icra2020.org/call-for-papers)       |           |       |       |
 | [IROS](http://www.iros2020.org/2submission/CallforPapers.html)       |           |       |       |
-| [PODS](https://sigmod2020.org/calls_papers_pods_research.shtml)       |           |       |       |
+| [PODS](https://sigmod2020.org/calls_papers_pods_research.shtml)       | (8)        |       |       |
 | [SODA](https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines)       |           |       |       |
 | [STOC](http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf)       |           |       | **N**   |
 | [VIS](http://ieeevis.org/year/2020/info/call-participation/paper-submission-guidelines#anonymization) | | |       |
@@ -108,7 +108,8 @@ been verified directly with the program chair(s).
   * (5): "You may post to mailing lists, arxiv, social media, or another publicity channel about your work, but do not mention where the paper is submitted and do not use the exact, as-submitted title in the posting."
   * (6): "While authors can upload to institutional or other preprint repositories such as arXiv.org before reviewing is complete, we generally discourage this since it places anonymity at risk (which could result in a negative outcome of the reviewing process)."
   * (7): "If available online (e.g., via arXiv) and not anonymous, their titles and abstract must be sufficiently different from the submission"
-
+  * (8): PODS will be fully double-blind as of 2022.
+  
 ## Resources related to double-blind reviewing
 
 * [**Reviewer bias in single- versus double-blind peer review**](https://www.pnas.org/content/114/48/12708), Tomkins, Zhang, and Heavlin. PNAS November 28, 2017 114 (48) 12708-12713; first published November 14, 2017. (a.k.a., _the WSDM Experiment_)
