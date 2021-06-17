@@ -87,6 +87,7 @@ been verified directly with the program chair(s).
 | [LICS](https://lics.siglog.org/lics20/cfp.php)       | **Y**     |       | **N** |
 | [MobiSys](https://www.sigmobile.org/mobisys/2020/cfp/)    | **Y**     |       |       |
 | [POPL](https://popl20.sigplan.org/track/POPL-2020-Research-Papers#POPL-2020-Call-for-Papers)       | **Y**     |       | **N** |
+| [SODA](https://www.siam.org/conferences/cm/submissions-and-deadlines/soda22-submissions-deadlines) | **Y** | **N** | **N**  |
 |            |           |       |
 | _single-blind conferences_ | | |
 | [FOCS](http://focs2019.cs.jhu.edu/cfp/)       |           |       |       |
@@ -94,7 +95,6 @@ been verified directly with the program chair(s).
 | [ICRA](https://www.icra2020.org/call-for-papers)       |           |       |       |
 | [IROS](http://www.iros2020.org/2submission/CallforPapers.html)       |           |       |       |
 | [PODS](https://sigmod2020.org/calls_papers_pods_research.shtml)       | (8)        |       |       |
-| [SODA](https://www.siam.org/conferences/cm/submissions-and-deadlines/soda20-submissions-deadlines)       |           |       |       |
 | [STOC](http://acm-stoc.org/stoc2020/STOC-2020-cfp.pdf)       |           |       | **N**   |
 | [VIS](http://ieeevis.org/year/2020/info/call-participation/paper-submission-guidelines#anonymization) | | |       |
 | [VLDB](https://vldb2020.org/submission-guidelines.html)       |           |       |       |
