@@ -1,7 +1,7 @@
 conference,url,partial,full,restricted,url2,notes
 AAAI,https://aaai.org/Conferences/AAAI-20/aaai20call/,Y,Y,,,
-ACL,https://acl2020.org/calls/papers/,Y,Y,Y,https://acl2020.org/calls/papers/#important-anonymity-period
-ASE,https://conf.researchr.org/track/ase-2020/ase-2020-papers,Y,Y,N,https://conf.researchr.org/track/ase-2020/ase-2020-papers#FAQs-on-Double-Blind
+ACL,https://acl2020.org/calls/papers/,Y,Y,Y,https://acl2020.org/calls/papers/#important-anonymity-period,
+ASE,https://conf.researchr.org/track/ase-2020/ase-2020-papers,Y,Y,N,https://conf.researchr.org/track/ase-2020/ase-2020-papers#FAQs-on-Double-Blind,
 ASPLOS,https://asplos-conference.org/submissions/,Y,Y,N,,
 CAV,http://i-cav.org/2020/call-for-papers/,Y,Y,N,,
 CCS,https://www.sigsac.org/ccs/CCS2020/call-for-papers.html,Y,Y,,,
