@@ -39,7 +39,7 @@ been verified directly with the program chair(s).
 |            |           |         |         |
 | _fully double-blind conferences_ | |
 | [AAAI](https://aaai.org/Conferences/AAAI-20/aaai20call/)        | **Y**     | **Y** |  |
-| [ACL](https://acl2020.org/calls/papers/)        | **Y**     | **Y** | [**Y**](https://acl2020.org/calls/papers/#important-anonymity-period)(0) |
+| [ACL](https://acl2020.org/calls/papers/)        | **Y**     | **Y** | [**Y**](https://acl2020.org/calls/papers/#important-anonymity-period) |
 | [ASE](https://conf.researchr.org/track/ase-2020/ase-2020-papers)        | **Y**     | **Y** | [**N**](https://conf.researchr.org/track/ase-2020/ase-2020-papers#FAQs-on-Double-Blind)(1) |
 | [ASPLOS](https://asplos-conference.org/submissions/)        | **Y**     | **Y** |  |
 | [CAV](http://i-cav.org/2020/call-for-papers/)        | **Y**     | **Y** | **N**(2) |
@@ -47,7 +47,7 @@ been verified directly with the program chair(s).
 | [CRYPTO](https://crypto.iacr.org/2020/callforpapers.html)        | **Y**     | **Y** |  |
 | [CVPR](http://cvpr2020.thecvf.com/submission/main-conference/author-guidelines#call-for-papers)        | **Y**     | **Y** |  |
 | [ECCV](https://eccv2020.eu/author-instructions/)        | **Y**     | **Y** |  |
-| [EMNLP](https://2020.emnlp.org/call-for-papers)        | **Y**     | **Y** | [**Y**](https://www.emnlp-ijcnlp2019.org/calls/papers)(2) |
+| [EMNLP](https://2020.emnlp.org/call-for-papers)        | **Y**     | **Y** | [**Y**](https://www.emnlp-ijcnlp2019.org/calls/papers) |
 | [EuroCrypt](https://eurocrypt.iacr.org/2020/callforpapers.html)        | **Y**     | **Y** |  |
 | [EuroSys](https://www.eurosys2020.org/call-for-papers/)        | **Y**     | **Y** |  |
 | [FAST](https://www.usenix.org/conference/fast20/call-for-papers)        | **Y**     | **Y** |  |
