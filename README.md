@@ -107,8 +107,26 @@ been verified directly with the program chair(s).
 
 * ISCA 2020's industrial track (not research track) papers are single-blind.
 * CHI and UIST's research paper tracks have one or more meta-reviewers who know the identities of all authors.
+
+### Updates
+
 * PODS will be fully double-blind as of 2022.
 * SODA will be partial double-blind as of 2022.
+
+### Historical notes
+
+* ASPLOS was partially double-blind since 2004, fully double-blind since at least 2020 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/14).
+* NSDI was single-blind in 2016, double-blind as of 2017 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/18).
+* OSDI has been double-blind since 2012 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/16).
+* PLDI was partially double-blind since 2014, fully double-blind since 2016 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/10).
+* PODS will be fully double-blind as of 2022.
+* POPL has been partially double-blind since 2012 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/11).
+* SC has been fully double-blind since 2018 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/15).
+* SIGMOD and VLDB have been double-blind since 2001 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/17).
+* SODA will be partial double-blind as of 2022.
+* SOSP has been double-blind since at least 1999 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/13).
+* USENIX ATC has been double-blind since 2019 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/12).
+* USENIX Security was fully double-blind from 2011, partially double-blind in 2014, and back to fully double-blind as of 2017 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/19).
 
 ## Resources related to double-blind reviewing
 
