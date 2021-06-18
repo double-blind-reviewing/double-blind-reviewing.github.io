@@ -17,7 +17,7 @@ with open('double-blind.csv', 'r') as f:
             full = f"**{row['full']}**"
         if row['restricted']:
             restricted = f"**{row['restricted']}**"
-        arxiv_notes = ""
+        arxiv_notes = restricted
         if row['notes']:
             notes.append(f"[{row['conference']}] {row['notes']}")
             arxiv_notes = f"{restricted}({len(notes)})"
