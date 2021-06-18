@@ -56,15 +56,15 @@ been verified directly with the program chair(s).
 | [ICML](https://icml.cc/Conferences/2020/CallForPapers)        | **Y**     | **Y** |  |
 | [ICSE](https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A)        | **Y**     | **Y** | **Y**(3) |
 | [IJCAI](https://ijcai20.org/call-for-papers.html)        | **Y**     | **Y** | **N** |
-| [ISCA](https://www.iscaconf.org/isca2020/submit/guidelines.html)        | **Y**     | **Y** | **N** |
+| [ISCA](https://www.iscaconf.org/isca2020/submit/guidelines.html)        | **Y**     | **Y** | **N**(4) |
 | [KDD](https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers)        | **Y**     | **Y** | **N** |
-| [MICRO](https://www.microarch.org/micro52/submit/guidelines.html)        | **Y**     | **Y** | **N**(4) |
+| [MICRO](https://www.microarch.org/micro52/submit/guidelines.html)        | **Y**     | **Y** | **N**(5) |
 | [MobiCom](https://sigmobile.org/mobicom/2020/)        | **Y**     | **Y** |  |
 | [NDSS](https://www.ndss-symposium.org/ndss2020/call-for-papers/)        | **Y**     | **Y** |  |
 | [NeurIPS](https://nips.cc/Conferences/2019/CallForPapers)        | **Y**     | **Y** | **N** |
 | [NSDI](https://www.usenix.org/conference/nsdi20/call-for-papers)        | **Y**     | **Y** | **N** |
 | [Oakland (IEEE S&P)](https://www.ieee-security.org/TC/SP2020/cfpapers.html)        | **Y**     | **Y** | **N** |
-| [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers)        | **Y**     | **Y** | **N**(5) |
+| [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers)        | **Y**     | **Y** | **N**(6) |
 | [OSDI](https://www.usenix.org/conference/osdi20/call-for-papers)        | **Y**     | **Y** |  |
 | [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing)        | **Y**     | **Y** | **N** |
 | [PODS](https://2021.sigmod.org/calls_papers_pods_research.shtml)        | **Y**     | **Y** |  |
@@ -72,13 +72,13 @@ been verified directly with the program chair(s).
 | [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2020/submission.html)        | **Y**     | **Y** | **N** |
 | [SIGGRAPH](https://s2020.siggraph.org/submissions/technical-papers-submissions/technical-papers-submissions-faq/)        | **Y**     | **Y** | **N** |
 | [SIGGRAPH Asia](https://sa2019.siggraph.org/submissions/technical-papers)        | **Y**     | **Y** | **N** |
-| [SIGIR](https://sigir.org/sigir2020/call-for-full-papers/)        | **Y**     | **Y** | **N**(6) |
+| [SIGIR](https://sigir.org/sigir2020/call-for-full-papers/)        | **Y**     | **Y** | **N**(7) |
 | [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html)        | **Y**     | **Y** | **N** |
 | [SIGMOD](https://sigmod2020.org/calls_papers_sigmod_research.shtml)        | **Y**     | **Y** |  |
 | [SOSP](https://sosp2021.mpi-sws.org/cfp.html)        | **Y**     | **Y** | **N** |
 | [USENIX ATC](https://www.usenix.org/conference/atc20/call-for-papers)        | **Y**     | **Y** | **N** |
 | [USENIX Security](https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf)        | **Y**     | **Y** | **N** |
-| [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y**     | **Y** | **N**(7) |
+| [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y**     | **Y** | **N**(8) |
 | _partially double-blind conferences_ | |
 | [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**     | **N** | **N** |
 | [UIST](https://uist.acm.org/uist2019/author-guide/index.html#ano)        | **Y**     | **N** | **N** |
@@ -97,10 +97,11 @@ been verified directly with the program chair(s).
  * (1): [ASE] Authors are discouraged from posting the submitted work on arXiv or a similar site immediately before or after submitting to the conference.
  * (2): [CAV] We do not discourage authors to put their submission on arXiv, but we strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers.
  * (3): [ICSE] You should not [...] post your work on ArXiV or a similar site just before or after submitting to the conference.
- * (4): [MICRO] Information about arXiv submission  must be provided on the submission form – the PC chair will make this information available to reviewers if it becomes necessary to ensure a fair review.
- * (5): [OOPSLA] You may post to mailing lists, arxiv, social media, or another publicity channel about your work, but do not mention where the paper is submitted and do not use the exact, as-submitted title in the posting.
- * (6): [SIGIR] While authors can upload to institutional or other preprint repositories such as arXiv.org before reviewing is complete, we generally discourage this since it places anonymity at risk (which could result in a negative outcome of the reviewing process).
- * (7): [WWW] If available online (e.g., via arXiv) and not anonymous, their titles and abstract must be sufficiently different from the submission
+ * (4): [ISCA] Information about arXiv submission  must be provided on the submission form – the PC chair will make this information available to reviewers if it becomes necessary to ensure a fair review.
+ * (5): [MICRO] Information about arXiv submission  must be provided on the submission form – the PC chair will make this information available to reviewers if it becomes necessary to ensure a fair review.
+ * (6): [OOPSLA] You may post to mailing lists, arxiv, social media, or another publicity channel about your work, but do not mention where the paper is submitted and do not use the exact, as-submitted title in the posting.
+ * (7): [SIGIR] While authors can upload to institutional or other preprint repositories such as arXiv.org before reviewing is complete, we generally discourage this since it places anonymity at risk (which could result in a negative outcome of the reviewing process).
+ * (8): [WWW] If available online (e.g., via arXiv) and not anonymous, their titles and abstract must be sufficiently different from the submission
 
 ### Notes
 
