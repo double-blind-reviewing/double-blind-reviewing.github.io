@@ -22,7 +22,10 @@ with open('double-blind.csv', 'r') as f:
             notes.append(f"[{row['conference']}] {row['notes']}")
             arxiv_notes = f"{restricted}({len(notes)})"
         if row['url2']:
-            arxiv_notes = f"[{restricted}]({row['url2']})({len(notes)})"
+            if row['notes']:
+                arxiv_notes = f"[{restricted}]({row['url2']})({len(notes)})"
+            else:
+                arxiv_notes = f"[{restricted}]({row['url2']})"
         str = f"| [{row['conference']}]({row['url']})        | {partial}     | {full} | {arxiv_notes} |"
         if row['partial'] == 'Y':
             if row['full'] == 'Y':
