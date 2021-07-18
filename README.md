@@ -93,6 +93,7 @@ been verified directly with the program chair(s).
 | [ICDE](https://www.utdallas.edu/icde/call.html)        |      |  |  |
 | [ICRA](https://www.icra2020.org/call-for-papers)        |      |  |  |
 | [IROS](http://www.iros2020.org/2submission/CallforPapers.html)        |      |  |  |
+| [VLDB](http://vldb.org/pvldb/vol15-submission/)        |      |  |  |
 
  * (1): [ASE] Authors are discouraged from posting the submitted work on arXiv or a similar site immediately before or after submitting to the conference.
  * (2): [CAV] We do not discourage authors to put their submission on arXiv, but we strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers.
