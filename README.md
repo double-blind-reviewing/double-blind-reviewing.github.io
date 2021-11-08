@@ -123,7 +123,7 @@ been verified directly with the program chair(s).
 * PODS will be fully double-blind as of 2022.
 * POPL has been partially double-blind since 2012 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/11).
 * SC has been fully double-blind since 2018 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/15).
-* SIGMOD and VLDB have been double-blind since 2001 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/17).
+* SIGMOD has been double-blind since 2001 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/17).
 * SODA will be partial double-blind as of 2022.
 * SOSP has been double-blind since at least 1999 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/13).
 * USENIX ATC has been double-blind since 2019 (see https://github.com/double-blind-reviewing/double-blind-reviewing.github.io/issues/12).
