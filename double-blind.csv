@@ -36,7 +36,7 @@ SIGGRAPH,https://s2020.siggraph.org/submissions/technical-papers-submissions/tec
 SIGGRAPH Asia,https://sa2019.siggraph.org/submissions/technical-papers,Y,Y,N,,
 SIGIR,https://sigir.org/sigir2020/call-for-full-papers/,Y,Y,N,,"While authors can upload to institutional or other preprint repositories such as arXiv.org before reviewing is complete, we generally discourage this since it places anonymity at risk (which could result in a negative outcome of the reviewing process)."
 SIGMETRICS,https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html,Y,Y,N,,
-SIGMOD,https://sigmod2020.org/calls_papers_sigmod_research.shtml,Y,Y,,,
+SIGMOD,https://2023.sigmod.org/calls_papers_sigmod_research.shtml,Y,Y,Y,,"SIGMOD does not allow submissions of papers that appear at pre-publication servers, such as arXiv, unless such servers allow authors to anonymize their papers, by at least temporarily masking their identity until the notification of accept/reject decisions."
 SOSP,https://sosp2021.mpi-sws.org/cfp.html,Y,Y,N,,
 USENIX ATC,https://www.usenix.org/conference/atc20/call-for-papers,Y,Y,N,,
 USENIX Security,https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf,Y,Y,N,,

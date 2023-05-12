@@ -39,11 +39,11 @@
 | [SIGGRAPH Asia](https://sa2019.siggraph.org/submissions/technical-papers)        | **Y**     | **Y** | **N** |
 | [SIGIR](https://sigir.org/sigir2020/call-for-full-papers/)        | **Y**     | **Y** | **N**(7) |
 | [SIGMETRICS](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html)        | **Y**     | **Y** | **N** |
-| [SIGMOD](https://sigmod2020.org/calls_papers_sigmod_research.shtml)        | **Y**     | **Y** |  |
+| [SIGMOD](https://2023.sigmod.org/calls_papers_sigmod_research.shtml)        | **Y**     | **Y** | **Y**(8) |
 | [SOSP](https://sosp2021.mpi-sws.org/cfp.html)        | **Y**     | **Y** | **N** |
 | [USENIX ATC](https://www.usenix.org/conference/atc20/call-for-papers)        | **Y**     | **Y** | **N** |
 | [USENIX Security](https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf)        | **Y**     | **Y** | **N** |
-| [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y**     | **Y** | **N**(8) |
+| [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y**     | **Y** | **N**(9) |
 | _partially double-blind conferences_ | |
 | [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**     | **N** | **N** |
 | [UIST](https://uist.acm.org/uist2019/author-guide/index.html#ano)        | **Y**     | **N** | **N** |
@@ -66,4 +66,5 @@
  * (5): [MICRO] Information about arXiv submission  must be provided on the submission form – the PC chair will make this information available to reviewers if it becomes necessary to ensure a fair review.
  * (6): [OOPSLA] You may post to mailing lists, arxiv, social media, or another publicity channel about your work, but do not mention where the paper is submitted and do not use the exact, as-submitted title in the posting.
  * (7): [SIGIR] While authors can upload to institutional or other preprint repositories such as arXiv.org before reviewing is complete, we generally discourage this since it places anonymity at risk (which could result in a negative outcome of the reviewing process).
- * (8): [WWW] If available online (e.g., via arXiv) and not anonymous, their titles and abstract must be sufficiently different from the submission
+ * (8): [SIGMOD] SIGMOD does not allow submissions of papers that appear at pre-publication servers, such as arXiv, unless such servers allow authors to anonymize their papers, by at least temporarily masking their identity until the notification of accept/reject decisions.
+ * (9): [WWW] If available online (e.g., via arXiv) and not anonymous, their titles and abstract must be sufficiently different from the submission
