@@ -51,5 +51,6 @@ print(*single, sep='\n')
 print("")
 for (index, string) in enumerate(notes):
     print(f" * ({index+1}): {string}")
-        
+
+print("")
 print("[GitHub site](https://github.com/double-blind-reviewing/double-blind-reviewing.github.io)")
