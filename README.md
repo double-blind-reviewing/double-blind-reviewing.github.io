@@ -30,6 +30,7 @@
 | [Oakland (IEEE S&P)](https://www.ieee-security.org/TC/SP2020/cfpapers.html)        | **Y**     | **Y** | **N** |
 | [OOPSLA](https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers)        | **Y**     | **Y** | **N**(6) |
 | [OSDI](https://www.usenix.org/conference/osdi20/call-for-papers)        | **Y**     | **Y** |  |
+| [POPL](https://popl24.sigplan.org/track/POPL-2024-popl-research-papers)        | **Y**     | **Y** | **N** |
 | [PLDI](https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing)        | **Y**     | **Y** | **N** |
 | [PODS](https://2021.sigmod.org/calls_papers_pods_research.shtml)        | **Y**     | **Y** |  |
 | [SenSys](http://sensys.acm.org/2020/cfp/)        | **Y**     | **Y** |  |
@@ -43,7 +44,6 @@
 | [USENIX ATC](https://www.usenix.org/conference/atc20/call-for-papers)        | **Y**     | **Y** | **N** |
 | [USENIX Security](https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf)        | **Y**     | **Y** | **N** |
 | [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y**     | **Y** | **N**(8) |
-| [POPL](https://popl24.sigplan.org/track/POPL-2024-popl-research-papers)        | **Y**     | **Y** | **N** |
 | _partially double-blind conferences_ | |
 | [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**     | **N** | **N** |
 | [UIST](https://uist.acm.org/uist2019/author-guide/index.html#ano)        | **Y**     | **N** | **N** |
