@@ -68,3 +68,4 @@
  * (7): [SIGIR] While authors can upload to institutional or other preprint repositories such as arXiv.org before reviewing is complete, we generally discourage this since it places anonymity at risk (which could result in a negative outcome of the reviewing process).
  * (8): [SIGMOD] SIGMOD does not allow submissions of papers that appear at pre-publication servers, such as arXiv, unless such servers allow authors to anonymize their papers, by at least temporarily masking their identity until the notification of accept/reject decisions.
  * (9): [WWW] If available online (e.g., via arXiv) and not anonymous, their titles and abstract must be sufficiently different from the submission
+[GitHub site](https://github.com/double-blind-reviewing/double-blind-reviewing.github.io)
