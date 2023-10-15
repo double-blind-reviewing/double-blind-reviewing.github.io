@@ -44,6 +44,8 @@
 | [USENIX ATC](https://www.usenix.org/conference/atc20/call-for-papers)        | **Y**     | **Y** | **N** |
 | [USENIX Security](https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf)        | **Y**     | **Y** | **N** |
 | [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y**     | **Y** | **N**(9) |
+| [STOC](http://acm-stoc.org/stoc2024/stoc2024-cfp.html)        | **Y**     | **Y** | **N**(10) |
+| [FOCS](https://focs.computer.org/2023/call-for-papers/#SubmissionInstructions)        | **Y**     | **Y** | **N** |
 | _partially double-blind conferences_ | |
 | [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y**     | **N** | **N** |
 | [UIST](https://uist.acm.org/uist2019/author-guide/index.html#ano)        | **Y**     | **N** | **N** |
@@ -53,10 +55,9 @@
 | [MobiSys](https://www.sigmobile.org/mobisys/2020/cfp/)        | **Y**     |  |  |
 | [SODA](https://www.siam.org/conferences/cm/submissions-and-deadlines/soda22-submissions-deadlines)        | **Y**     | **N** | **N** |
 | _single-blind conferences_ | |
-| [FOCS](http://focs2019.cs.jhu.edu/cfp/)        |      |  |  |
-| [ICDE](https://www.utdallas.edu/icde/call.html)        |      |  |  |
-| [ICRA](https://www.icra2020.org/call-for-papers)        |      |  |  |
-| [IROS](http://www.iros2020.org/2submission/CallforPapers.html)        |      |  |  |
+| [ICDE](https://icde2024.github.io/CFP_research.html)        |      |  |  |
+| [ICRA](https://2024.ieee-icra.org/call-for-contributions.html)        |      |  |  |
+| [IROS](https://ieee-iros.org/call-for-papers/)        |      |  |  |
 | [VLDB](http://vldb.org/pvldb/vol15-submission/)        |      |  |  |
 
  * (1): [ASE] Authors are discouraged from posting the submitted work on arXiv or a similar site immediately before or after submitting to the conference.
@@ -68,5 +69,6 @@
  * (7): [SIGIR] While authors can upload to institutional or other preprint repositories such as arXiv.org before reviewing is complete, we generally discourage this since it places anonymity at risk (which could result in a negative outcome of the reviewing process).
  * (8): [SIGMOD] SIGMOD does not allow submissions of papers that appear at pre-publication servers, such as arXiv, unless such servers allow authors to anonymize their papers, by at least temporarily masking their identity until the notification of accept/reject decisions.
  * (9): [WWW] If available online (e.g., via arXiv) and not anonymous, their titles and abstract must be sufficiently different from the submission
+ * (10): [STOC] Double-blind starting 2024
 
 [GitHub site](https://github.com/double-blind-reviewing/double-blind-reviewing.github.io)
